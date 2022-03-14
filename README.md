@@ -90,3 +90,28 @@ zip cfbaf0
 - ![Publication](https://img.shields.io/badge/2020-ECCV-f3722c) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490647.pdf) [![](https://img.shields.io/badge/Supplementary-ZIP-b5e48c)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490647-supp.zip) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2007.10872-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2007.10872)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/yhw-yhw/D2HC-RMVSNet?logo=github&label=Stars)](https://github.com/yhw-yhw/D2HC-RMVSNet)
 - ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314180115.png)
+
+#### Visibility-aware Multi-view Stereo Network
+- ![Publication](https://img.shields.io/badge/2020-BMVC-b98b73) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.bmvc2020-conference.com/assets/papers/0421.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.bmvc2020-conference.com/assets/supp/0421_supp.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2008.0792-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2008.0792)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/jzhangbs/Vis-MVSNet?logo=github&label=Stars)](https://github.com/jzhangbs/Vis-MVSNet)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314184438.png)
+
+
+#### Long-range Attention Network for Multi-View Stereo
+- ![Publication](https://img.shields.io/badge/2021-WACV-9d4edd) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Long-Range_Attention_Network_for_Multi-View_Stereo_WACV_2021_paper.pdf)
+- [![](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=BfwBth3HgQU)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314201531.png)
+
+
+#### PatchmatchNet: Learned Multi-View Patchmatch Stereo
+- ![Publication](https://img.shields.io/badge/2021-CVPR-43aa8b) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_PatchmatchNet_Learned_Multi-View_Patchmatch_Stereo_CVPR_2021_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Wang_PatchmatchNet_Learned_Multi-View_CVPR_2021_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2012.01411-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2012.01411)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/FangjinhuaWang/PatchmatchNet?logo=github&label=Stars)](https://github.com/FangjinhuaWang/PatchmatchNet)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314202133.png)
+
+
+#### DeepVideoMVS: Multi-View Stereo on Video With Recurrent Spatio-Temporal Fusion
+- ![Publication](https://img.shields.io/badge/2021-CVPR-43aa8b) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2021/papers/Duzceker_DeepVideoMVS_Multi-View_Stereo_on_Video_With_Recurrent_Spatio-Temporal_Fusion_CVPR_2021_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Duzceker_DeepVideoMVS_Multi-View_Stereo_CVPR_2021_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2012.02177-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2012.02177)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ardaduz/deep-video-mvs?logo=github&label=Stars)](https://github.com/ardaduz/deep-video-mvs)
+- [![](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=ikpotjxwcp4)
+
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314202836.png)
