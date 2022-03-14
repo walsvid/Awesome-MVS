@@ -4,6 +4,9 @@
 pdf f5cac3
 zip cfbaf0
 ![](https://img.shields.io/badge/Official-white.svg?logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjNTNBMTU4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xLjUgOGE2LjUgNi41IDAgMTExMyAwIDYuNSA2LjUgMCAwMS0xMyAwek0wIDhhOCA4IDAgMTExNiAwQTggOCAwIDAxMCA4em0xMS43OC0xLjcyYS43NS43NSAwIDAwLTEuMDYtMS4wNkw2Ljc1IDkuMTkgNS4yOCA3LjcyYS43NS43NSAwIDAwLTEuMDYgMS4wNmwyIDJhLjc1Ljc1IDAgMDAxLjA2IDBsNC41LTQuNXoiPjwvcGF0aD48L3N2Zz4=)
+
+https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0yNTYgMEMxMTQuNiAwIDAgMTE0LjYgMCAyNTZzMTE0LjYgMjU2IDI1NiAyNTZzMjU2LTExNC42IDI1Ni0yNTZTMzk3LjQgMCAyNTYgMHpNMjU2IDQwMGMtMTggMC0zMi0xNC0zMi0zMnMxMy4xLTMyIDMyLTMyYzE3LjEgMCAzMiAxNCAzMiAzMlMyNzMuMSA0MDAgMjU2IDQwMHpNMzI1LjEgMjU4TDI4MCAyODZWMjg4YzAgMTMtMTEgMjQtMjQgMjRTMjMyIDMwMSAyMzIgMjg4VjI3MmMwLTggNC0xNiAxMi0yMWw1Ny0zNEMzMDggMjEzIDMxMiAyMDYgMzEyIDE5OEMzMTIgMTg2IDMwMS4xIDE3NiAyODkuMSAxNzZoLTUxLjFDMjI1LjEgMTc2IDIxNiAxODYgMjE2IDE5OGMwIDEzLTExIDI0LTI0IDI0cy0yNC0xMS0yNC0yNEMxNjggMTU5IDE5OSAxMjggMjM3LjEgMTI4aDUxLjFDMzI5IDEyOCAzNjAgMTU5IDM2MCAxOThDMzYwIDIyMiAzNDcgMjQ1IDMyNS4xIDI1OHoiLz48L3N2Zz4=
+
 -->
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -64,7 +67,7 @@ zip cfbaf0
 
 #### Learning Inverse Depth Regression for Multi-View Stereo with Correlation Cost Volume
 - ![Publication](https://img.shields.io/badge/2020-AAAI-ffafcc) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ojs.aaai.org//index.php/AAAI/article/view/6939/6793) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1912.11746-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1912.11746)
-- ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/CIDER?logo=github&label=Stars)](https://github.com/GhiXu/CIDER)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0yNTYgMEMxMTQuNiAwIDAgMTE0LjYgMCAyNTZzMTE0LjYgMjU2IDI1NiAyNTZzMjU2LTExNC42IDI1Ni0yNTZTMzk3LjQgMCAyNTYgMHpNMjU2IDQwMGMtMTggMC0zMi0xNC0zMi0zMnMxMy4xLTMyIDMyLTMyYzE3LjEgMCAzMiAxNCAzMiAzMlMyNzMuMSA0MDAgMjU2IDQwMHpNMzI1LjEgMjU4TDI4MCAyODZWMjg4YzAgMTMtMTEgMjQtMjQgMjRTMjMyIDMwMSAyMzIgMjg4VjI3MmMwLTggNC0xNiAxMi0yMWw1Ny0zNEMzMDggMjEzIDMxMiAyMDYgMzEyIDE5OEMzMTIgMTg2IDMwMS4xIDE3NiAyODkuMSAxNzZoLTUxLjFDMjI1LjEgMTc2IDIxNiAxODYgMjE2IDE5OGMwIDEzLTExIDI0LTI0IDI0cy0yNC0xMS0yNC0yNEMxNjggMTU5IDE5OSAxMjggMjM3LjEgMTI4aDUxLjFDMzI5IDEyOCAzNjAgMTU5IDM2MCAxOThDMzYwIDIyMiAzNDcgMjQ1IDMyNS4xIDI1OHoiLz48L3N2Zz4=) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/CIDER?logo=github&label=Stars)](https://github.com/GhiXu/CIDER)
 - ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/%E6%88%AA%E5%B1%8F2022-03-14%2015.16.20.png)
 
 
@@ -135,3 +138,19 @@ zip cfbaf0
 - ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_AA-RMVSNet_Adaptive_Aggregation_Recurrent_Multi-View_Stereo_Network_ICCV_2021_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wei_AA-RMVSNet_Adaptive_Aggregation_ICCV_2021_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2108.03824-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2108.03824)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/QT-Zhu/AA-RMVSNet?logo=github&label=Stars)](https://github.com/QT-Zhu/AA-RMVSNet)
 - ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314203957.png)
+
+
+#### Digging into Uncertainty in Self-supervised Multi-view Stereo
+- ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Digging_Into_Uncertainty_in_Self-Supervised_Multi-View_Stereo_ICCV_2021_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xu_Digging_Into_Uncertainty_ICCV_2021_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2108.12966-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2108.12966)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ToughStoneX/U-MVS?logo=github&label=Stars)](https://github.com/ToughStoneX/U-MVS)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314210011.png)
+
+
+#### EPP-MVSNet: Epipolar-Assembling Based Depth Prediction for Multi-View Stereo
+- ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_EPP-MVSNet_Epipolar-Assembling_Based_Depth_Prediction_for_Multi-View_Stereo_ICCV_2021_paper.pdf)
+- ![Huawei](https://img.shields.io/badge/MindSpore-d3d3d3?logo=huawei&logoColor=red) [![GitHub stars](https://img.shields.io/github/stars/mindspore-ai/models?logo=github&label=Stars)](https://github.com/mindspore-ai/models)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314210559.png)
+
+#### Just a Few Points Are All You Need for Multi-View Stereo: A Novel Semi-Supervised Learning Method for Multi-View Stereo
+- ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Just_a_Few_Points_Are_All_You_Need_for_Multi-View_ICCV_2021_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kim_Just_a_Few_ICCV_2021_supplemental.pdf)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314215026.png)
