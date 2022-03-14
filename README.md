@@ -154,3 +154,15 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 #### Just a Few Points Are All You Need for Multi-View Stereo: A Novel Semi-Supervised Learning Method for Multi-View Stereo
 - ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Just_a_Few_Points_Are_All_You_Need_for_Multi-View_ICCV_2021_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kim_Just_a_Few_ICCV_2021_supplemental.pdf)
 - ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314215026.png)
+
+
+#### Learning Signed Distance Field for Multi-view Surface Reconstruction
+- ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learning_Signed_Distance_Field_for_Multi-View_Surface_Reconstruction_ICCV_2021_paper.pdf) [![](https://img.shields.io/badge/Supplementary-ZIP-b5e48c)](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Zhang_Learning_Signed_Distance_ICCV_2021_supplemental.zip) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2108.09964-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2108.09964)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/jzhangbs/MVSDF?logo=github&label=Stars)](https://github.com/jzhangbs/MVSDF)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314215324.png)
+
+
+#### Deep Multi-View Stereo Gone Wild
+- ![Publication](https://img.shields.io/badge/2021-3DV-277da1) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://conferences.computer.org/3dvpub/pdfs/3DV2021-5lXBZyiG3QAsRBKXHIjqU8/268800a484/268800a484.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2104.15119-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2104.15119)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/fdarmon/wild_deep_mvs?logo=github&label=Stars)](https://github.com/fdarmon/wild_deep_mvs)
+- <p align="center"><img src="https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314215733.png" width="400"/></p>
