@@ -35,6 +35,11 @@ zip cfbaf0
 - ![Publication](https://img.shields.io/badge/2019-ICCV-f9c74f) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_P-MVSNet_Learning_Patch-Wise_Matching_Confidence_Aggregation_for_Multi-View_Stereo_ICCV_2019_paper.pdf)
 - ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314143735.png)
 
+#### MVSCRF: Learning Multi-view Stereo with Conditional Random Fields
+- ![Publication](https://img.shields.io/badge/2019-ICCV-f9c74f) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_MVSCRF_Learning_Multi-View_Stereo_With_Conditional_Random_Fields_ICCV_2019_paper.pdf)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314145514.png)
+
+
 #### 2020
 
 #### Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching
@@ -42,3 +47,9 @@ zip cfbaf0
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/alibaba/cascade-stereo?logo=github&label=Stars)](https://github.com/alibaba/cascade-stereo)
 - [![](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=rcJiRQqDKbo)
 - ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220306002513.png)
+
+
+#### Deep Stereo using Adaptive Thin Volume Representation with Uncertainty Awareness
+- ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Deep_Stereo_Using_Adaptive_Thin_Volume_Representation_With_Uncertainty_Awareness_CVPR_2020_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Cheng_Deep_Stereo_Using_CVPR_2020_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1911.12012-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1911.12012)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/touristCheng/UCSNet?logo=github&label=Stars)](https://github.com/touristCheng/UCSNet)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314150037.png)
