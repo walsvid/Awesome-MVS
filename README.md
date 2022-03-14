@@ -45,6 +45,11 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 ### 2020
 
+#### MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo
+- ![Publication](https://img.shields.io/badge/2020-T--IP-9a8c98) [![](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9115828)
+- [![](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=VRTEWxt1P68)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314221417.png)
+
 #### Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching
 - ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Cascade_Cost_Volume_for_High-Resolution_Multi-View_Stereo_and_Stereo_Matching_CVPR_2020_paper.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1912.06378-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/1912.06378)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/alibaba/cascade-stereo?logo=github&label=Stars)](https://github.com/alibaba/cascade-stereo)
@@ -162,7 +167,19 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314215324.png)
 
 
+#### PatchMatch-RL: Deep MVS With Pixelwise Depth, Normal, and Visibility
+- ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_PatchMatch-RL_Deep_MVS_With_Pixelwise_Depth_Normal_and_Visibility_ICCV_2021_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Lee_PatchMatch-RL_Deep_MVS_ICCV_2021_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2108.08943-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2108.08943)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/leejaeyong7/patchmatch-rl?logo=github&label=Stars)](https://github.com/leejaeyong7/patchmatch-rl)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314221024.png)
+
+
 #### Deep Multi-View Stereo Gone Wild
 - ![Publication](https://img.shields.io/badge/2021-3DV-277da1) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://conferences.computer.org/3dvpub/pdfs/3DV2021-5lXBZyiG3QAsRBKXHIjqU8/268800a484/268800a484.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2104.15119-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2104.15119)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/fdarmon/wild_deep_mvs?logo=github&label=Stars)](https://github.com/fdarmon/wild_deep_mvs)
+- [![](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://imagine.enpc.fr/~darmonf/wild_deep_mvs/)
 - <p align="center"><img src="https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314215733.png" width="400"/></p>
+
+
+#### HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images
+- ![Publication](https://img.shields.io/badge/2021-IEEE--Access-6fffe9) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9319163)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314222634.png)
