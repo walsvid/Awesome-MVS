@@ -31,6 +31,10 @@ zip cfbaf0
 - [![](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=my3jocjpD0U) [![](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](http://hansf.me/projects/PMVSNet/)
 - ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220305175706.png)
 
+#### P-MVSNet: Learning Patch-wise Matching Confidence Aggregation for Multi-view Stereo
+- ![Publication](https://img.shields.io/badge/2019-ICCV-f9c74f) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_P-MVSNet_Learning_Patch-Wise_Matching_Confidence_Aggregation_for_Multi-View_Stereo_ICCV_2019_paper.pdf)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314143735.png)
+
 #### 2020
 
 #### Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching
