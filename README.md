@@ -79,6 +79,11 @@ zip cfbaf0
 - [![](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=gZds3nKoPR8)
 - ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314152327.png)
 
+#### Cost Volume Pyramid Based Depth Inference for Multi-View Stereo
+- ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Cost_Volume_Pyramid_Based_Depth_Inference_for_Multi-View_Stereo_CVPR_2020_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yang_Cost_Volume_Pyramid_CVPR_2020_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1912.08329-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/1912.08329)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/JiayuYANG/CVP-MVSNet?logo=github&label=Stars)](https://github.com/JiayuYANG/CVP-MVSNet)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314203554.png)
+
 
 #### Pyramid Multi-view Stereo Net with Self-adaptive View aggregation
 - ![Publication](https://img.shields.io/badge/2020-ECCV-f3722c) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540732.pdf) [![](https://img.shields.io/badge/Supplementary-ZIP-b5e48c)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540732-supp.zip) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1912.03001-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1912.03001)
@@ -96,6 +101,7 @@ zip cfbaf0
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/jzhangbs/Vis-MVSNet?logo=github&label=Stars)](https://github.com/jzhangbs/Vis-MVSNet)
 - ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314184438.png)
 
+### 2021
 
 #### Long-range Attention Network for Multi-View Stereo
 - ![Publication](https://img.shields.io/badge/2021-WACV-9d4edd) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Long-Range_Attention_Network_for_Multi-View_Stereo_WACV_2021_paper.pdf)
@@ -122,7 +128,10 @@ zip cfbaf0
 - ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314203201.png)
 
 
-#### Cost Volume Pyramid Based Depth Inference for Multi-View Stereo
-- ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Cost_Volume_Pyramid_Based_Depth_Inference_for_Multi-View_Stereo_CVPR_2020_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yang_Cost_Volume_Pyramid_CVPR_2020_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1912.08329-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/1912.08329)
-- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/JiayuYANG/CVP-MVSNet?logo=github&label=Stars)](https://github.com/JiayuYANG/CVP-MVSNet)
-- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314203554.png)
+
+
+
+#### AA-RMVSNet: Adaptive Aggregation Recurrent Multi-View Stereo Network
+- ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_AA-RMVSNet_Adaptive_Aggregation_Recurrent_Multi-View_Stereo_Network_ICCV_2021_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wei_AA-RMVSNet_Adaptive_Aggregation_ICCV_2021_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2108.03824-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2108.03824)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/QT-Zhu/AA-RMVSNet?logo=github&label=Stars)](https://github.com/QT-Zhu/AA-RMVSNet)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314203957.png)
