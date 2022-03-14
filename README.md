@@ -113,5 +113,16 @@ zip cfbaf0
 - ![Publication](https://img.shields.io/badge/2021-CVPR-43aa8b) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2021/papers/Duzceker_DeepVideoMVS_Multi-View_Stereo_on_Video_With_Recurrent_Spatio-Temporal_Fusion_CVPR_2021_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Duzceker_DeepVideoMVS_Multi-View_Stereo_CVPR_2021_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2012.02177-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2012.02177)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ardaduz/deep-video-mvs?logo=github&label=Stars)](https://github.com/ardaduz/deep-video-mvs)
 - [![](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=ikpotjxwcp4)
-
 - ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314202836.png)
+
+
+#### Self-Supervised Learning of Depth Inference for Multi-View Stereo
+- ![Publication](https://img.shields.io/badge/2021-CVPR-43aa8b) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Self-Supervised_Learning_of_Depth_Inference_for_Multi-View_Stereo_CVPR_2021_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Yang_Self-Supervised_Learning_of_CVPR_2021_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2104.02972-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2104.02972)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/JiayuYANG/Self-supervised-CVP-MVSNet?logo=github&label=Stars)](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314203201.png)
+
+
+#### Cost Volume Pyramid Based Depth Inference for Multi-View Stereo
+- ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Cost_Volume_Pyramid_Based_Depth_Inference_for_Multi-View_Stereo_CVPR_2020_paper.pdf) [![](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yang_Cost_Volume_Pyramid_CVPR_2020_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1912.08329-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/1912.08329)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/JiayuYANG/CVP-MVSNet?logo=github&label=Stars)](https://github.com/JiayuYANG/CVP-MVSNet)
+- ![](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314203554.png)
