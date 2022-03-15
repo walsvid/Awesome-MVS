@@ -265,3 +265,11 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220315004143.png)
 
 ## PatchMatch-based MVS Methods
+
+### 2019
+
+#### Multi-Scale Geometric Consistency Guided Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2019-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Multi-Scale_Geometric_Consistency_Guided_Multi-View_Stereo_CVPR_2019_paper.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1904.08103-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1904.08103)
+- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMM?logo=github&label=Stars)](https://github.com/GhiXu/ACMM) ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMH?logo=github&label=Stars)](https://github.com/GhiXu/ACMH)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/acmm.png)
