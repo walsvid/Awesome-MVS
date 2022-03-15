@@ -272,6 +272,14 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 ## PatchMatch-based MVS Methods
 
+### early
+
+#### Patchmatch stereo-stereo matching with slanted support windows
+
+- ![Publication](https://img.shields.io/badge/2011-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](http://www.bmva.org/bmvc/2011/proceedings/paper14/paper14.pdf)
+- ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ethan-li-coding/PatchMatchStereo?logo=github&label=Stars)](https://github.com/ethan-li-coding/PatchMatchStereo)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/pm.png)
+
 ### 2019
 
 #### Multi-Scale Geometric Consistency Guided Multi-View Stereo - [ACMH, ACMM]
