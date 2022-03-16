@@ -278,7 +278,11 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 - ![Publication](https://img.shields.io/badge/2011-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](http://www.bmva.org/bmvc/2011/proceedings/paper14/paper14.pdf)
 - ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ethan-li-coding/PatchMatchStereo?logo=github&label=Stars)](https://github.com/ethan-li-coding/PatchMatchStereo)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/pm.png)
+
+#### Pixelwise view selection for unstructured multi-view stereo - [COLMAP]
+
+- ![Publication](https://img.shields.io/badge/2016-ECCV-f3722c) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46487-9_31.pdf) ![Publication](https://img.shields.io/badge/2016-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-ZIP-b5e48c)](https://openaccess.thecvf.com/content_cvpr_2016/supplemental/Schonberger_Structure-From-Motion_Revisited_2016_CVPR_supplemental.zip)
+- ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/colmap/colmap?logo=github&label=Stars)](https://github.com/colmap/colmap)
 
 ### 2019
 
@@ -288,9 +292,20 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMM?logo=github&label=Stars)](https://github.com/GhiXu/ACMM) ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMH?logo=github&label=Stars)](https://github.com/GhiXu/ACMH)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/acmm.png)
 
+#### TAPA-MVS: Textureless-Aware PAtchMatch Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2019-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_Multi-View_Stereo_ICCV_2019_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_ICCV_2019_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1903.10929-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1903.10929)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/tapamvs.png)
+
 ### 2020
 
 #### Mesh-Guided Multi-View Stereo with Pyramid Architecture
 
 - ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Mesh-Guided_Multi-View_Stereo_With_Pyramid_Architecture_CVPR_2020_paper.pdf)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220315181015.png)
+
+#### Planar Prior Assisted PatchMatch Multi-View Stereo - [ACMP]
+
+- ![Publication](https://img.shields.io/badge/2020-AAAI-ffafcc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://aaai.org/ojs/index.php/AAAI/article/view/6940/6794) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1912.11744-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1912.11744)
+- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMP?logo=github&label=Stars)](https://github.com/GhiXu/ACMP)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/acmp.png)
