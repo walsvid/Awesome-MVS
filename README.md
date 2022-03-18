@@ -199,8 +199,10 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220318010952.png)
 
 #### IB-MVS: An Iterative Algorithm for Deep Multi-View Stereo based on Binary Decisions
+
 - ![Publication](https://img.shields.io/badge/2021-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.bmvc2021-virtualconference.com/assets/papers/0902.pdf) [![Supp](https://img.shields.io/badge/Supplementary-ZIP-b5e48c)](https://www.bmvc2021-virtualconference.com/assets/supp/0902_supp.zip) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2111.14420-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2111.14420)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220318011453.png)
+
 #### EPP-MVSNet: Epipolar-Assembling Based Depth Prediction for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_EPP-MVSNet_Epipolar-Assembling_Based_Depth_Prediction_for_Multi-View_Stereo_ICCV_2021_paper.pdf)
