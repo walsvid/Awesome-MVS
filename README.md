@@ -277,6 +277,12 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 ### 2022
 
+#### Curvature-guided dynamic scale networks for Multi-view Stereo
+
+- ![Publication](https://img.shields.io/badge/2022-ICLR-a8dadc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/pdf?id=_Wzj0J2xs2D) [![Supp](https://img.shields.io/badge/Supplementary-OTHER-blue)](https://openreview.net/attachment?id=_Wzj0J2xs2D&name=supplementary_material) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2112.05999-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2112.05999)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/TruongKhang/cds-mvsnet?logo=github&label=Stars)](https://github.com/TruongKhang/cds-mvsnet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220319005124.png)
+
 #### TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers
 
 - ![Publication](https://img.shields.io/badge/2022-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2111.14600-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2111.14600)
