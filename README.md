@@ -81,10 +81,11 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=rcJiRQqDKbo)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220306002513.png)
 
-#### Deep Stereo using Adaptive Thin Volume Representation with Uncertainty Awareness
+#### Deep Stereo using Adaptive Thin Volume Representation with Uncertainty Awareness - [UCSNet]
 
 - ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Deep_Stereo_Using_Adaptive_Thin_Volume_Representation_With_Uncertainty_Awareness_CVPR_2020_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Cheng_Deep_Stereo_Using_CVPR_2020_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1911.12012-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1911.12012)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/touristCheng/UCSNet?logo=github&label=Stars)](https://github.com/touristCheng/UCSNet)
+- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deep-stereo-using-adaptive-thin-volume/3d-reconstruction-on-dtu)](https://paperswithcode.com/sota/3d-reconstruction-on-dtu?p=deep-stereo-using-adaptive-thin-volume) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deep-stereo-using-adaptive-thin-volume/point-clouds-on-tanks-and-temples)](https://paperswithcode.com/sota/point-clouds-on-tanks-and-temples?p=deep-stereo-using-adaptive-thin-volume)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314150037.png)
 
 #### Fast-MVSNet: Sparse-to-Dense Multi-View Stereo with Learned Propagation and Gauss-Newton Refinement
@@ -201,12 +202,14 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 #### IB-MVS: An Iterative Algorithm for Deep Multi-View Stereo based on Binary Decisions
 
 - ![Publication](https://img.shields.io/badge/2021-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.bmvc2021-virtualconference.com/assets/papers/0902.pdf) [![Supp](https://img.shields.io/badge/Supplementary-ZIP-b5e48c)](https://www.bmvc2021-virtualconference.com/assets/supp/0902_supp.zip) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2111.14420-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2111.14420)
+- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ib-mvs-an-iterative-algorithm-for-deep-multi/3d-reconstruction-on-dtu)](https://paperswithcode.com/sota/3d-reconstruction-on-dtu?p=ib-mvs-an-iterative-algorithm-for-deep-multi) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ib-mvs-an-iterative-algorithm-for-deep-multi/point-clouds-on-tanks-and-temples)](https://paperswithcode.com/sota/point-clouds-on-tanks-and-temples?p=ib-mvs-an-iterative-algorithm-for-deep-multi)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220318011453.png)
 
 #### EPP-MVSNet: Epipolar-Assembling Based Depth Prediction for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_EPP-MVSNet_Epipolar-Assembling_Based_Depth_Prediction_for_Multi-View_Stereo_ICCV_2021_paper.pdf)
 - ![Huawei](https://img.shields.io/badge/MindSpore-d3d3d3?logo=huawei&logoColor=red) [![GitHub stars](https://img.shields.io/github/stars/mindspore-ai/models?logo=github&label=Stars)](https://github.com/mindspore-ai/models)
+- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/epp-mvsnet-epipolar-assembling-based-depth/3d-reconstruction-on-dtu)](https://paperswithcode.com/sota/3d-reconstruction-on-dtu?p=epp-mvsnet-epipolar-assembling-based-depth) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/epp-mvsnet-epipolar-assembling-based-depth/point-clouds-on-tanks-and-temples)](https://paperswithcode.com/sota/point-clouds-on-tanks-and-temples?p=epp-mvsnet-epipolar-assembling-based-depth) 
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314210559.png)
 
 #### NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-View Stereo
@@ -277,16 +280,18 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 ### 2022
 
-#### Curvature-guided dynamic scale networks for Multi-view Stereo
+#### Curvature-guided dynamic scale networks for Multi-view Stereo - [CDS-MVSNet]
 
 - ![Publication](https://img.shields.io/badge/2022-ICLR-a8dadc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/pdf?id=_Wzj0J2xs2D) [![Supp](https://img.shields.io/badge/Supplementary-OTHER-blue)](https://openreview.net/attachment?id=_Wzj0J2xs2D&name=supplementary_material) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2112.05999-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2112.05999)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/TruongKhang/cds-mvsnet?logo=github&label=Stars)](https://github.com/TruongKhang/cds-mvsnet)
+- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/curvature-guided-dynamic-scale-networks-for-1/3d-reconstruction-on-dtu)](https://paperswithcode.com/sota/3d-reconstruction-on-dtu?p=curvature-guided-dynamic-scale-networks-for-1) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/curvature-guided-dynamic-scale-networks-for-1/point-clouds-on-tanks-and-temples)](https://paperswithcode.com/sota/point-clouds-on-tanks-and-temples?p=curvature-guided-dynamic-scale-networks-for-1)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220319005124.png)
 
 #### TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers
 
 - ![Publication](https://img.shields.io/badge/2022-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2111.14600-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2111.14600)
 - ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0yNTYgMEMxMTQuNiAwIDAgMTE0LjYgMCAyNTZzMTE0LjYgMjU2IDI1NiAyNTZzMjU2LTExNC42IDI1Ni0yNTZTMzk3LjQgMCAyNTYgMHpNMjU2IDQwMGMtMTggMC0zMi0xNC0zMi0zMnMxMy4xLTMyIDMyLTMyYzE3LjEgMCAzMiAxNCAzMiAzMlMyNzMuMSA0MDAgMjU2IDQwMHpNMzI1LjEgMjU4TDI4MCAyODZWMjg4YzAgMTMtMTEgMjQtMjQgMjRTMjMyIDMwMSAyMzIgMjg4VjI3MmMwLTggNC0xNiAxMi0yMWw1Ny0zNEMzMDggMjEzIDMxMiAyMDYgMzEyIDE5OEMzMTIgMTg2IDMwMS4xIDE3NiAyODkuMSAxNzZoLTUxLjFDMjI1LjEgMTc2IDIxNiAxODYgMjE2IDE5OGMwIDEzLTExIDI0LTI0IDI0cy0yNC0xMS0yNC0yNEMxNjggMTU5IDE5OSAxMjggMjM3LjEgMTI4aDUxLjFDMzI5IDEyOCAzNjAgMTU5IDM2MCAxOThDMzYwIDIyMiAzNDcgMjQ1IDMyNS4xIDI1OHoiLz48L3N2Zz4=) [![GitHub stars](https://img.shields.io/github/stars/MegviiRobot/TransMVSNet?logo=github&label=Stars)](https://github.com/MegviiRobot/TransMVSNet)
+- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transmvsnet-global-context-aware-multi-view/3d-reconstruction-on-dtu)](https://paperswithcode.com/sota/3d-reconstruction-on-dtu?p=transmvsnet-global-context-aware-multi-view)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314224420.png)
 
 #### Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss - [UniMVSNet]
