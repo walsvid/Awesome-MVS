@@ -261,6 +261,13 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/FangjinhuaWang/IterMVS?logo=github&label=Stars)](https://github.com/FangjinhuaWang/IterMVS)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220315181849.png)
 
+#### TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo
+
+- ![Publication](https://img.shields.io/badge/2021-CoRL-717D40) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/pdf?id=FzMHiDesj0I) [![Supp](https://img.shields.io/badge/Supplementary-OTHER-blue)](https://openreview.net/attachment?id=FzMHiDesj0I&name=supplementary_material) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2111.07418-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2111.07418)
+- ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/tum-vision/tandem?logo=github&label=Stars)](https://github.com/tum-vision/tandem)
+- [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://youtu.be/L4C8Q6Gvl1w) [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://vision.in.tum.de/research/vslam/tandem)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220318175420.png)
+
 ### 2022
 
 #### TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers
@@ -281,6 +288,22 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Publication](https://img.shields.io/badge/2022-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2112.02338-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2112.02338)
 - ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0yNTYgMEMxMTQuNiAwIDAgMTE0LjYgMCAyNTZzMTE0LjYgMjU2IDI1NiAyNTZzMjU2LTExNC42IDI1Ni0yNTZTMzk3LjQgMCAyNTYgMHpNMjU2IDQwMGMtMTggMC0zMi0xNC0zMi0zMnMxMy4xLTMyIDMyLTMyYzE3LjEgMCAzMiAxNCAzMiAzMlMyNzMuMSA0MDAgMjU2IDQwMHpNMzI1LjEgMjU4TDI4MCAyODZWMjg4YzAgMTMtMTEgMjQtMjQgMjRTMjMyIDMwMSAyMzIgMjg4VjI3MmMwLTggNC0xNiAxMi0yMWw1Ny0zNEMzMDggMjEzIDMxMiAyMDYgMzEyIDE5OEMzMTIgMTg2IDMwMS4xIDE3NiAyODkuMSAxNzZoLTUxLjFDMjI1LjEgMTc2IDIxNiAxODYgMjE2IDE5OGMwIDEzLTExIDI0LTI0IDI0cy0yNC0xMS0yNC0yNEMxNjggMTU5IDE5OSAxMjggMjM3LjEgMTI4aDUxLjFDMzI5IDEyOCAzNjAgMTU5IDM2MCAxOThDMzYwIDIyMiAzNDcgMjQ1IDMyNS4xIDI1OHoiLz48L3N2Zz4=) [![GitHub stars](https://img.shields.io/github/stars/MiZhenxing/GBi-Net?logo=github&label=Stars)](https://github.com/MiZhenxing/GBi-Net)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220315004143.png)
+
+#### iMVS: Improving MVS Networks by Learning Depth Discontinuities
+
+- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2203.01391-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2203.01391)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/imvs.png)
+
+#### PatchMVSNet: Patch-wise Unsupervised Multi-View Stereo for Weakly-Textured Surface Reconstruction
+
+- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2203.02156-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2203.02156)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220318170940.png)
+
+#### RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering
+
+- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2203.03949-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2203.03949)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0yNTYgMEMxMTQuNiAwIDAgMTE0LjYgMCAyNTZzMTE0LjYgMjU2IDI1NiAyNTZzMjU2LTExNC42IDI1Ni0yNTZTMzk3LjQgMCAyNTYgMHpNMjU2IDQwMGMtMTggMC0zMi0xNC0zMi0zMnMxMy4xLTMyIDMyLTMyYzE3LjEgMCAzMiAxNCAzMiAzMlMyNzMuMSA0MDAgMjU2IDQwMHpNMzI1LjEgMjU4TDI4MCAyODZWMjg4YzAgMTMtMTEgMjQtMjQgMjRTMjMyIDMwMSAyMzIgMjg4VjI3MmMwLTggNC0xNiAxMi0yMWw1Ny0zNEMzMDggMjEzIDMxMiAyMDYgMzEyIDE5OEMzMTIgMTg2IDMwMS4xIDE3NiAyODkuMSAxNzZoLTUxLjFDMjI1LjEgMTc2IDIxNiAxODYgMjE2IDE5OGMwIDEzLTExIDI0LTI0IDI0cy0yNC0xMS0yNC0yNEMxNjggMTU5IDE5OSAxMjggMjM3LjEgMTI4aDUxLjFDMzI5IDEyOCAzNjAgMTU5IDM2MCAxOThDMzYwIDIyMiAzNDcgMjQ1IDMyNS4xIDI1OHoiLz48L3N2Zz4=) [![GitHub stars](https://img.shields.io/github/stars/Boese0601/RC-MVSNet?logo=github&label=Stars)](https://github.com/Boese0601/RC-MVSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220318172139.png)
 
 ## PatchMatch-based MVS Methods
 
