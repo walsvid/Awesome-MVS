@@ -235,12 +235,12 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 #### HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images
 
-- ![Publication](https://img.shields.io/badge/2021-IEEE--Access-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9319163)
+- ![Publication](https://img.shields.io/badge/2021-IEEE--Access-3a506b) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9319163)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314222634.png)
 
 #### AACVP-MVSNet: Attention-aware cost volume pyramid based multi-view stereo network for 3D reconstruction. ISPRS Journal of Photogrammetry and Remote Sensing
 
-- ![Publication](https://img.shields.io/badge/2021-ISPRS-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.sciencedirect.com/science/article/pii/S0924271621000794) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2011.12722-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2011.12722)
+- ![Publication](https://img.shields.io/badge/2021-ISPRS-3a506b) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.sciencedirect.com/science/article/pii/S0924271621000794) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2011.12722-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2011.12722)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ArthasMil/AACVP-MVSNet?logo=github&label=Stars)](https://github.com/ArthasMil/AACVP-MVSNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314223313.png)
 
@@ -316,8 +316,8 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Mesh-Guided_Multi-View_Stereo_With_Pyramid_Architecture_CVPR_2020_paper.pdf)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220315181015.png)
 
-#### Planar Prior Assisted PatchMatch Multi-View Stereo - [ACMP]
+#### Planar Prior Assisted PatchMatch Multi-View Stereo - [ACMP, ACMMP]
 
 - ![Publication](https://img.shields.io/badge/2020-AAAI-ffafcc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://aaai.org/ojs/index.php/AAAI/article/view/6940/6794) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1912.11744-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1912.11744)
-- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMP?logo=github&label=Stars)](https://github.com/GhiXu/ACMP)
+- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMP?logo=github&label=Stars)](https://github.com/GhiXu/ACMP) ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMMP?logo=github&label=Stars)](https://github.com/GhiXu/ACMMP)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/acmp.png)
