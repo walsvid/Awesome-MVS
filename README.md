@@ -350,6 +350,7 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMM?logo=github&label=Stars)](https://github.com/GhiXu/ACMM) ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMH?logo=github&label=Stars)](https://github.com/GhiXu/ACMH)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/acmm.png)
 
+
 #### TAPA-MVS: Textureless-Aware PAtchMatch Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2019-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_Multi-View_Stereo_ICCV_2019_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_ICCV_2019_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1903.10929-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1903.10929)
@@ -358,6 +359,11 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 #### Plane completion and ﬁltering for multi-view stereo reconstruction
 
 - ![Publication](https://img.shields.io/badge/2019-GCPR-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://dl.acm.org/doi/abs/10.1007/978-3-030-33676-9_2)
+
+
+#### Pyramid Multi-View Stereo with Local Consistency - [PLC]
+- ![Publication](https://img.shields.io/badge/2019-PG-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](http://graphvision.whu.edu.cn/papers/paper1245_CRC.pdf)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220320194358.png)
 
 ### 2020
 
@@ -387,3 +393,4 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 - ![Publication](https://img.shields.io/badge/2020-TIP-9a8c98) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9112642/)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220320193450.png)
+
