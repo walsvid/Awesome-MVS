@@ -338,6 +338,10 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Publication](https://img.shields.io/badge/2016-ECCV-f3722c) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46487-9_31.pdf) ![Publication](https://img.shields.io/badge/2016-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-ZIP-b5e48c)](https://openaccess.thecvf.com/content_cvpr_2016/supplemental/Schonberger_Structure-From-Motion_Revisited_2016_CVPR_supplemental.zip)
 - ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/colmap/colmap?logo=github&label=Stars)](https://github.com/colmap/colmap)
 
+#### A TV prior for high-quality scalable multi-view stereo reconstruction
+
+- ![Publication](https://img.shields.io/badge/2016-IJCV-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.cs.middlebury.edu/~schar/papers/Kuhn-3DV-2014.pdf)
+
 ### 2019
 
 #### Multi-Scale Geometric Consistency Guided Multi-View Stereo - [ACMH, ACMM]
@@ -367,3 +371,18 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Publication](https://img.shields.io/badge/2020-AAAI-ffafcc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://aaai.org/ojs/index.php/AAAI/article/view/6940/6794) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1912.11744-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1912.11744)
 - ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMP?logo=github&label=Stars)](https://github.com/GhiXu/ACMP) ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMMP?logo=github&label=Stars)](https://github.com/GhiXu/ACMMP)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/acmp.png)
+
+#### DeepC-MVS: Deep Confidence Prediction for Multi-View Stereo Reconstruction
+
+- ![Publication](https://img.shields.io/badge/2020-3DV-277da1) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9320407) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1912.00439-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1912.00439)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/deepcmvs.png)
+
+#### MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient Large Scale Scene Reconstruction
+
+- ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_paper.pdf)
+- [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=r_QZwNbi4m8)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/marmvs.png)
+
+#### Confidence-based Large-scale Dense Multi-view Stereo
+- ![Publication](https://img.shields.io/badge/2020-TIP-9a8c98) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9112642/)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220320193450.png)
