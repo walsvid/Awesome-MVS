@@ -338,6 +338,12 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Publication](https://img.shields.io/badge/2016-ECCV-f3722c) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46487-9_31.pdf) ![Publication](https://img.shields.io/badge/2016-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-ZIP-b5e48c)](https://openaccess.thecvf.com/content_cvpr_2016/supplemental/Schonberger_Structure-From-Motion_Revisited_2016_CVPR_supplemental.zip)
 - ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/colmap/colmap?logo=github&label=Stars)](https://github.com/colmap/colmap)
 
+#### Massively Parallel Multiview Stereopsis by Surface Normal Diffusion - [Gipuma]
+
+- ![Publication](https://img.shields.io/badge/2015-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-iccv15.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](http://www.prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-supplementary-iccv15.pdf)
+- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/kysucix/gipuma?logo=github&label=Stars)](https://github.com/kysucix/gipuma)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/gipuma.png)
+
 #### A TV prior for high-quality scalable multi-view stereo reconstruction
 
 - ![Publication](https://img.shields.io/badge/2016-IJCV-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.cs.middlebury.edu/~schar/papers/Kuhn-3DV-2014.pdf)
@@ -350,7 +356,6 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMM?logo=github&label=Stars)](https://github.com/GhiXu/ACMM) ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/ACMH?logo=github&label=Stars)](https://github.com/GhiXu/ACMH)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/acmm.png)
 
-
 #### TAPA-MVS: Textureless-Aware PAtchMatch Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2019-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_Multi-View_Stereo_ICCV_2019_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_ICCV_2019_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1903.10929-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1903.10929)
@@ -360,8 +365,8 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 - ![Publication](https://img.shields.io/badge/2019-GCPR-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://dl.acm.org/doi/abs/10.1007/978-3-030-33676-9_2)
 
-
 #### Pyramid Multi-View Stereo with Local Consistency - [PLC]
+
 - ![Publication](https://img.shields.io/badge/2019-PG-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](http://graphvision.whu.edu.cn/papers/paper1245_CRC.pdf)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220320194358.png)
 
@@ -393,4 +398,3 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 - ![Publication](https://img.shields.io/badge/2020-TIP-9a8c98) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9112642/)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220320193450.png)
-
