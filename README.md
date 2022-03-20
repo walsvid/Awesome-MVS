@@ -383,6 +383,7 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=r_QZwNbi4m8)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/marmvs.png)
 
-#### Confidence-based Large-scale Dense Multi-view Stereo
+#### Confidence-based Large-scale Dense Multi-view Stereo - [CLD-MVS]
+
 - ![Publication](https://img.shields.io/badge/2020-TIP-9a8c98) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9112642/)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220320193450.png)
