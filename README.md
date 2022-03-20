@@ -209,7 +209,7 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 - ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_EPP-MVSNet_Epipolar-Assembling_Based_Depth_Prediction_for_Multi-View_Stereo_ICCV_2021_paper.pdf)
 - ![Huawei](https://img.shields.io/badge/MindSpore-d3d3d3?logo=huawei&logoColor=red) [![GitHub stars](https://img.shields.io/github/stars/mindspore-ai/models?logo=github&label=Stars)](https://github.com/mindspore-ai/models)
-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/epp-mvsnet-epipolar-assembling-based-depth/3d-reconstruction-on-dtu)](https://paperswithcode.com/sota/3d-reconstruction-on-dtu?p=epp-mvsnet-epipolar-assembling-based-depth) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/epp-mvsnet-epipolar-assembling-based-depth/point-clouds-on-tanks-and-temples)](https://paperswithcode.com/sota/point-clouds-on-tanks-and-temples?p=epp-mvsnet-epipolar-assembling-based-depth) 
+- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/epp-mvsnet-epipolar-assembling-based-depth/3d-reconstruction-on-dtu)](https://paperswithcode.com/sota/3d-reconstruction-on-dtu?p=epp-mvsnet-epipolar-assembling-based-depth) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/epp-mvsnet-epipolar-assembling-based-depth/point-clouds-on-tanks-and-temples)](https://paperswithcode.com/sota/point-clouds-on-tanks-and-temples?p=epp-mvsnet-epipolar-assembling-based-depth)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314210559.png)
 
 #### NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-View Stereo
@@ -350,6 +350,10 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 - ![Publication](https://img.shields.io/badge/2019-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_Multi-View_Stereo_ICCV_2019_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_ICCV_2019_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1903.10929-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1903.10929)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/tapamvs.png)
+
+#### Plane completion and ﬁltering for multi-view stereo reconstruction
+
+- ![Publication](https://img.shields.io/badge/2019-GCPR-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://dl.acm.org/doi/abs/10.1007/978-3-030-33676-9_2)
 
 ### 2020
 
