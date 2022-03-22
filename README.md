@@ -341,7 +341,7 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 #### Massively Parallel Multiview Stereopsis by Surface Normal Diffusion - [Gipuma]
 
 - ![Publication](https://img.shields.io/badge/2015-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-iccv15.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](http://www.prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-supplementary-iccv15.pdf)
-- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/kysucix/gipuma?logo=github&label=Stars)](https://github.com/kysucix/gipuma)
+- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/kysucix/gipuma?logo=github&label=Stars)](https://github.com/kysucix/gipuma) ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/kysucix/fusibile?logo=github&label=Stars)](https://github.com/kysucix/fusibile)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/gipuma.png)
 
 #### A TV prior for high-quality scalable multi-view stereo reconstruction
