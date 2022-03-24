@@ -377,7 +377,7 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 ### 2020
 
-#### Mesh-Guided Multi-View Stereo with Pyramid Architecture
+#### Mesh-Guided Multi-View Stereo with Pyramid Architecture - [MG-MVS]
 
 - ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Mesh-Guided_Multi-View_Stereo_With_Pyramid_Architecture_CVPR_2020_paper.pdf)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220315181015.png)
