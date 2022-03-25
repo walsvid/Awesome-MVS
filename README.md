@@ -338,6 +338,15 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 ### early
 
+#### Accurate, Dense, and Robust Multi-View Stereopsis - [Furu / PMVS]
+
+- ![Publication](https://img.shields.io/badge/2007-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/5226635)
+- [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://www.di.ens.fr/pmvs/)
+
+#### Efficient large-scale multi-view stereo for ultra high-resolution image sets - [Tola]
+
+- ![Publication](https://img.shields.io/badge/2011-MV&A-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s00138-011-0346-8)
+
 #### Patchmatch stereo-stereo matching with slanted support windows
 
 - ![Publication](https://img.shields.io/badge/2011-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](http://www.bmva.org/bmvc/2011/proceedings/paper14/paper14.pdf)
