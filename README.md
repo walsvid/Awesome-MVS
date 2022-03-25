@@ -89,6 +89,11 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=rcJiRQqDKbo)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220306002513.png)
 
+#### BP-MVSNet: Belief-Propagation-Layers for Multi-View-Stereo
+
+- ![Publication](https://img.shields.io/badge/2020-3DV-277da1) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.computer.org/csdl/proceedings-article/3dv/2020/812800a394/1qyxkbFekXC) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2010.12436-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2010.12436)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220325235522.png)
+
 #### Deep Stereo using Adaptive Thin Volume Representation with Uncertainty Awareness - [UCSNet]
 
 - ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Deep_Stereo_Using_Adaptive_Thin_Volume_Representation_With_Uncertainty_Awareness_CVPR_2020_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Cheng_Deep_Stereo_Using_CVPR_2020_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1911.12012-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1911.12012)
