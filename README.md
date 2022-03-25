@@ -343,9 +343,14 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Publication](https://img.shields.io/badge/2007-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/5226635)
 - [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://www.di.ens.fr/pmvs/)
 
-#### Efficient large-scale multi-view stereo for ultra high-resolution image sets - [Tola]
+#### Efficient large-scale multi-view stereo for ultra high-resolution image sets - [Tola / EMVS]
 
 - ![Publication](https://img.shields.io/badge/2011-MV&A-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s00138-011-0346-8)
+- ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/cbalint13/emvs?logo=github&label=Stars)](https://github.com/cbalint13/emvs)
+
+#### Using multiple hypotheses to improve depth-maps for multi-view stereo - [Camp]
+
+- ![Publication](https://img.shields.io/badge/2008-ECCV-f3722c) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/chapter/10.1007/978-3-540-88682-2_58)
 
 #### Patchmatch stereo-stereo matching with slanted support windows
 
