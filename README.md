@@ -278,6 +278,11 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://youtu.be/L4C8Q6Gvl1w) [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://vision.in.tum.de/research/vslam/tandem)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220318175420.png)
 
+#### Multi-View Stereo with Transformer
+
+- ![Publication](https://img.shields.io/badge/2021-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2112.00336-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2112.00336)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220325145842.png)
+
 ### 2022
 
 #### Curvature-guided dynamic scale networks for Multi-view Stereo - [CDS-MVSNet]
