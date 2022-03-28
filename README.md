@@ -30,6 +30,12 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://phuang17.github.io/DeepMVS/index.html)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/deepmvs1.png)
 
+#### MVDepthNet: Real-time Multiview Depth Estimation Neural Network
+
+- ![Publication](https://img.shields.io/badge/2018-3DV-277da1) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.computer.org/csdl/proceedings-article/3dv/2018/842500a248/17D45WgziSk) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1807.08563-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1807.08563)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/MVDepthNet?logo=github&label=Stars)](https://github.com/HKUST-Aerial-Robotics/MVDepthNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/mvdepthnet.png)
+
 #### MVSNet: Depth Inference for Unstructured Multi-view Stereo
 
 - ![Publication](https://img.shields.io/badge/2018-ECCV-f3722c) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Yao_MVSNet_Depth_Inference_ECCV_2018_paper.pdf) [![Paper](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://yoyo000.github.io/papers/yao2018mvsnet_supp.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1804.02505-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1804.02505)
