@@ -449,6 +449,12 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Publication](https://img.shields.io/badge/2020-TIP-9a8c98) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9112642/)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220320193450.png)
 
+#### A-TVSNet: Aggregated Two-View Stereo Network for Multi-View Stereo Depth Estimation
+
+- ![Publication](https://img.shields.io/badge/2020-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2003.00711-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2003.00711)
+- ![Tensorflow](https://img.shields.io/badge/TensorFlow-ff6f00?logo=tensorflow&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/daiszh/A-TVSNet?logo=github&label=Stars)](https://github.com/daiszh/A-TVSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/atsvnet.png)
+
 ### 2021
 
 #### PHI-MVS: Plane Hypothesis Inference Multi-view Stereo for Large-Scale Scene Reconstruction
