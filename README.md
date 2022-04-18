@@ -366,6 +366,12 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/Airobin329/RayMVSNet?logo=github&label=Stars)](https://github.com/Airobin329/RayMVSNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/ray-mvs_v2.png)
 
+#### MVSTER: Epipolar Transformer for Efficient Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2204.07346-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2204.07346)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/JeffWang987/MVSTER?logo=github&label=Stars)](https://github.com/JeffWang987/MVSTER)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/mvster.png)
+
 ## PatchMatch-based MVS Methods
 
 ### early
