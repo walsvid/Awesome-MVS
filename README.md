@@ -366,6 +366,10 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/Airobin329/RayMVSNet?logo=github&label=Stars)](https://github.com/Airobin329/RayMVSNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/ray-mvs_v2.png)
 
+#### Bidirectional Hybrid LSTM Based Recurrent Neural Network for Multi-view Stereo - [BH-MVSNet]
+
+- ![Publication](https://img.shields.io/badge/2020-T--VCG-ff6fb5) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9754239)
+
 #### MVSTER: Epipolar Transformer for Efficient Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2204.07346-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2204.07346)
