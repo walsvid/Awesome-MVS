@@ -369,6 +369,7 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 #### Bidirectional Hybrid LSTM Based Recurrent Neural Network for Multi-view Stereo - [BH-MVSNet]
 
 - ![Publication](https://img.shields.io/badge/2020-T--VCG-ff6fb5) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9754239)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/bh-mvs.png)
 
 #### MVSTER: Epipolar Transformer for Efficient Multi-View Stereo
 
