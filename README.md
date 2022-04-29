@@ -45,6 +45,12 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 ### 2019
 
+#### DPSNet: End-to-end Deep Plane Sweep Stereo
+
+- ![Publication](https://img.shields.io/badge/2019-ICLR-a8dadc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/pdf?id=ryeYHi0ctQ) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1905.00538-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1905.00538)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/sunghoonim/DPSNet?logo=github&label=Stars)](https://github.com/sunghoonim/DPSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/dpsnet.png)
+
 #### Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference
 
 - ![Publication](https://img.shields.io/badge/2019-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yao_Recurrent_MVSNet_for_High-Resolution_Multi-View_Stereo_Depth_Inference_CVPR_2019_paper.pdf) [![Paper](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Yao_Recurrent_MVSNet_for_CVPR_2019_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1902.10556-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1902.10556)
