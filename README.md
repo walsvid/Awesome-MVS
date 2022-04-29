@@ -335,7 +335,7 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 #### Generalized Binary Search Network for Highly-Efficient Multi-View Stereo - [GBi-Net]
 
 - ![Publication](https://img.shields.io/badge/2022-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2112.02338-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2112.02338)
-- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0yNTYgMEMxMTQuNiAwIDAgMTE0LjYgMCAyNTZzMTE0LjYgMjU2IDI1NiAyNTZzMjU2LTExNC42IDI1Ni0yNTZTMzk3LjQgMCAyNTYgMHpNMjU2IDQwMGMtMTggMC0zMi0xNC0zMi0zMnMxMy4xLTMyIDMyLTMyYzE3LjEgMCAzMiAxNCAzMiAzMlMyNzMuMSA0MDAgMjU2IDQwMHpNMzI1LjEgMjU4TDI4MCAyODZWMjg4YzAgMTMtMTEgMjQtMjQgMjRTMjMyIDMwMSAyMzIgMjg4VjI3MmMwLTggNC0xNiAxMi0yMWw1Ny0zNEMzMDggMjEzIDMxMiAyMDYgMzEyIDE5OEMzMTIgMTg2IDMwMS4xIDE3NiAyODkuMSAxNzZoLTUxLjFDMjI1LjEgMTc2IDIxNiAxODYgMjE2IDE5OGMwIDEzLTExIDI0LTI0IDI0cy0yNC0xMS0yNC0yNEMxNjggMTU5IDE5OSAxMjggMjM3LjEgMTI4aDUxLjFDMzI5IDEyOCAzNjAgMTU5IDM2MCAxOThDMzYwIDIyMiAzNDcgMjQ1IDMyNS4xIDI1OHoiLz48L3N2Zz4=) [![GitHub stars](https://img.shields.io/github/stars/MiZhenxing/GBi-Net?logo=github&label=Stars)](https://github.com/MiZhenxing/GBi-Net)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/MiZhenxing/GBi-Net?logo=github&label=Stars)](https://github.com/MiZhenxing/GBi-Net)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220315004143.png)
 
 #### DDL-MVS: Depth Discontinuity Learning for MVS Networks - [iMVS]
