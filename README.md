@@ -383,6 +383,11 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/JeffWang987/MVSTER?logo=github&label=Stars)](https://github.com/JeffWang987/MVSTER)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/mvster.png)
 
+#### Exploiting Correspondences with All-pairs Correlations for Multi-view Depth Estimation
+
+- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.02481-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.02481)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/corrmvs.png)
+
 ## PatchMatch-based MVS Methods
 
 ### early
