@@ -388,6 +388,12 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.02481-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.02481)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/corrmvs.png)
 
+#### Multiview Stereo with Cascaded Epipolar RAFT - [CER-MVS]
+
+- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.04502-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.04502)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/princeton-vl/CER-MVS?logo=github&label=Stars)](https://github.com/princeton-vl/CER-MVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/cermvs.png)
+
 ## PatchMatch-based MVS Methods
 
 ### early
