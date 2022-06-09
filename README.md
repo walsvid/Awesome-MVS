@@ -416,6 +416,11 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.14320-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.14320)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/riav-mvs.png)
 
+#### Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction
+
+- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.15848-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.15848)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/geo-neus.png)
+
 ## PatchMatch-based MVS Methods
 
 ### early
