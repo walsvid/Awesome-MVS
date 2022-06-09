@@ -297,12 +297,6 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/Tangshengku/DDR-Net?logo=github&label=Stars)](https://github.com/Tangshengku/DDR-Net)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314225751.png)
 
-#### IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo
-
-- ![Publication](https://img.shields.io/badge/2021-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2112.05126-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2112.05126)
-- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/FangjinhuaWang/IterMVS?logo=github&label=Stars)](https://github.com/FangjinhuaWang/IterMVS)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220315181849.png)
-
 #### TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo
 
 - ![Publication](https://img.shields.io/badge/2021-CoRL-717D40) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/pdf?id=FzMHiDesj0I) [![Supp](https://img.shields.io/badge/Supplementary-OTHER-blue)](https://openreview.net/attachment?id=FzMHiDesj0I&name=supplementary_material) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2111.07418-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2111.07418)
@@ -316,6 +310,12 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220325145842.png)
 
 ### 2022
+
+#### IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2022-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_IterMVS_Iterative_Probability_Estimation_for_Efficient_Multi-View_Stereo_CVPR_2022_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wang_IterMVS_Iterative_Probability_CVPR_2022_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2112.05126-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2112.05126)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/FangjinhuaWang/IterMVS?logo=github&label=Stars)](https://github.com/FangjinhuaWang/IterMVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/itermvs-2.png)
 
 #### Curvature-guided dynamic scale networks for Multi-view Stereo - [CDS-MVSNet]
 
@@ -369,12 +369,12 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 
 #### PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo
 
-- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2203.12082-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2203.12082)
+- ![Publication](https://img.shields.io/badge/2022-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_PlaneMVS_3D_Plane_Reconstruction_From_Multi-View_Stereo_CVPR_2022_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Liu_PlaneMVS_3D_Plane_CVPR_2022_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2203.12082-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2203.12082)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220324201654.png)
 
 #### RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo
 
-- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2204.01320-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2204.01320)
+- ![Publication](https://img.shields.io/badge/2022-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2022/papers/Xi_RayMVSNet_Learning_Ray-Based_1D_Implicit_Fields_for_Accurate_Multi-View_Stereo_CVPR_2022_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xi_RayMVSNet_Learning_Ray-Based_CVPR_2022_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2204.01320-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2204.01320)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/Airobin329/RayMVSNet?logo=github&label=Stars)](https://github.com/Airobin329/RayMVSNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/ray-mvs_v2.png)
 
