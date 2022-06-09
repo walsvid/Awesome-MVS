@@ -344,6 +344,12 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/MiZhenxing/GBi-Net?logo=github&label=Stars)](https://github.com/MiZhenxing/GBi-Net)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220315004143.png)
 
+#### Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry
+
+- ![Publication](https://img.shields.io/badge/2022-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Multi-View_Depth_Estimation_by_Fusing_Single-View_Depth_Probability_With_Multi-View_CVPR_2022_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Bae_Multi-View_Depth_Estimation_CVPR_2022_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2112.08177-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2112.08177)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/baegwangbin/MaGNet?logo=github&label=Stars)](https://github.com/baegwangbin/MaGNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/magnet.png)
+
 #### DDL-MVS: Depth Discontinuity Learning for MVS Networks - [iMVS]
 
 - ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2203.01391-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2203.01391)
