@@ -169,6 +169,13 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/jzhangbs/Vis-MVSNet?logo=github&label=Stars)](https://github.com/jzhangbs/Vis-MVSNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314184438.png)
 
+#### A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-view Stereo Reconstruction from An Open Aerial Dataset - [REDNet]
+
+- ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_A_Novel_Recurrent_Encoder-Decoder_Structure_for_Large-Scale_Multi-View_Stereo_Reconstruction_CVPR_2020_paper.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2003.00637-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2003.00637)
+- ![Tensorflow](https://img.shields.io/badge/TensorFlow-ff6f00?logo=tensorflow&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/gpcv-liujin/REDNet?logo=github&label=Stars)](https://github.com/gpcv-liujin/REDNet)
+- [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=gZds3nKoPR8)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/rednet.png)
+
 ### 2021
 
 #### Long-range Attention Network for Multi-View Stereo
