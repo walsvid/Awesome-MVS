@@ -428,6 +428,11 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 - ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.15848-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.15848)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/geo-neus.png)
 
+#### Enhancing Multi-view Stereo with Contrastive Matching and Weighted Focal Loss
+
+- ![Publication](https://img.shields.io/badge/2022-ICIP-3a506b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2206.10360-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2206.10360)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/cml-wfl.png)
+
 ## PatchMatch-based MVS Methods
 
 ### early
