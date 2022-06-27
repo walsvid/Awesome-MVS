@@ -334,9 +334,9 @@ https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg
 #### TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers
 
 - ![Publication](https://img.shields.io/badge/2022-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2111.14600-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2111.14600)
-- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0yNTYgMEMxMTQuNiAwIDAgMTE0LjYgMCAyNTZzMTE0LjYgMjU2IDI1NiAyNTZzMjU2LTExNC42IDI1Ni0yNTZTMzk3LjQgMCAyNTYgMHpNMjU2IDQwMGMtMTggMC0zMi0xNC0zMi0zMnMxMy4xLTMyIDMyLTMyYzE3LjEgMCAzMiAxNCAzMiAzMlMyNzMuMSA0MDAgMjU2IDQwMHpNMzI1LjEgMjU4TDI4MCAyODZWMjg4YzAgMTMtMTEgMjQtMjQgMjRTMjMyIDMwMSAyMzIgMjg4VjI3MmMwLTggNC0xNiAxMi0yMWw1Ny0zNEMzMDggMjEzIDMxMiAyMDYgMzEyIDE5OEMzMTIgMTg2IDMwMS4xIDE3NiAyODkuMSAxNzZoLTUxLjFDMjI1LjEgMTc2IDIxNiAxODYgMjE2IDE5OGMwIDEzLTExIDI0LTI0IDI0cy0yNC0xMS0yNC0yNEMxNjggMTU5IDE5OSAxMjggMjM3LjEgMTI4aDUxLjFDMzI5IDEyOCAzNjAgMTU5IDM2MCAxOThDMzYwIDIyMiAzNDcgMjQ1IDMyNS4xIDI1OHoiLz48L3N2Zz4=) [![GitHub stars](https://img.shields.io/github/stars/MegviiRobot/TransMVSNet?logo=github&label=Stars)](https://github.com/MegviiRobot/TransMVSNet)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/MegviiRobot/TransMVSNet?logo=github&label=Stars)](https://github.com/MegviiRobot/TransMVSNet)
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transmvsnet-global-context-aware-multi-view/3d-reconstruction-on-dtu)](https://paperswithcode.com/sota/3d-reconstruction-on-dtu?p=transmvsnet-global-context-aware-multi-view)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314224420.png)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/transmvs-2.png)
 
 #### Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss - [UniMVSNet]
 
