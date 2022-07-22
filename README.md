@@ -405,8 +405,6 @@
 - ![Publication](https://img.shields.io/badge/2022-ICIP-3a506b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2206.10360-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2206.10360)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/cml-wfl.png)
 
-<<<<<<< HEAD
-
 #### MVSTER: Epipolar Transformer for Efficient Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2022-ECCV-f3722c)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2204.07346-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2204.07346)
