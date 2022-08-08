@@ -431,6 +431,12 @@
 - ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBkPSJNNDk0LjkgOTYuMDFjLTM4Ljc4IDAtNzUuMjIgMTUuMDktMTAyLjYgNDIuNUwzMjAgMjEwLjhMMjQ3LjggMTM4LjVjLTI3LjQxLTI3LjQxLTYzLjg0LTQyLjUtMTAyLjYtNDIuNUM2NS4xMSA5Ni4wMSAwIDE2MS4xIDAgMjQxLjF2MjkuNzVjMCA4MC4wMyA2NS4xMSAxNDUuMSAxNDUuMSAxNDUuMWMzOC43OCAwIDc1LjIyLTE1LjA5IDEwMi42LTQyLjVMMzIwIDMwMS4zbDcyLjIzIDcyLjI1YzI3LjQxIDI3LjQxIDYzLjg0IDQyLjUgMTAyLjYgNDIuNUM1NzQuOSA0MTYgNjQwIDM1MC45IDY0MCAyNzAuOXYtMjkuNzVDNjQwIDE2MS4xIDU3NC45IDk2LjAxIDQ5NC45IDk2LjAxek0yMDIuNSAzMjguM2MtMTUuMzEgMTUuMzEtMzUuNjkgMjMuNzUtNTcuMzggMjMuNzVDMTAwLjQgMzUyIDY0IDMxNS42IDY0IDI3MC45di0yOS43NWMwLTQ0LjcyIDM2LjQxLTgxLjEzIDgxLjE0LTgxLjEzYzIxLjY5IDAgNDIuMDYgOC40MzggNTcuMzggMjMuNzVsNzIuMjMgNzIuMjVMMjAyLjUgMzI4LjN6TTU3NiAyNzAuOWMwIDQ0LjcyLTM2LjQxIDgxLjEzLTgxLjE0IDgxLjEzYy0yMS42OSAwLTQyLjA2LTguNDM4LTU3LjM4LTIzLjc1bC03Mi4yMy03Mi4yNWw3Mi4yMy03Mi4yNWMxNS4zMS0xNS4zMSAzNS42OS0yMy43NSA1Ny4zOC0yMy43NUM1MzkuNiAxNjAgNTc2IDE5Ni40IDU3NiAyNDEuMVYyNzAuOXoiLz48L3N2Zz4=) [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://dingyikang.github.io/kdmvs.github.io)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/kd-mvs.png)
 
+#### MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2208.02541-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2208.02541)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/mvsformer.png)
+
+
 ## PatchMatch-based MVS Methods
 
 ### early
