@@ -8,23 +8,42 @@
 
 ### 2022
 
+#### A Benchmark and a Baseline for Robust Multi-view Depth Estimation
+
+- ![Publication](https://img.shields.io/badge/2022-3DV-277da1)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2209.06681-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2209.06681)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/lmb-freiburg/robustmvd?logo=github&label=Stars)](https://github.com/lmb-freiburg/robustmvd)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918163109.png)
+
 #### MVSFormer: Multi-View Stereo with Pre-trained Vision Transformers and Temperature-based Depth
 
 - ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2208.02541-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2208.02541)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/mvsformer.png)
 
+#### Cost Volume Pyramid Network with Multi-strategies Range Searching for Multi-view Stereo - [MSCVP-MVSNet]
+
+- ![Publication](https://img.shields.io/badge/2022-CGI-3a506b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2207.12032-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2207.12032)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/SibylGao/MSCVP-MVSNet?logo=github&label=Stars)](https://github.com/SibylGao/MSCVP-MVSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918155629.png)
+
+#### ATLAS-MVSNet: Attention Layers for Feature Extraction and Cost Volume Regularization in Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2022-ICPR-3a506b)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/rafael-weilharter/ATLAS-MVSNet?logo=github&label=Stars)](https://github.com/rafael-weilharter/ATLAS-MVSNet)
+- [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=ZLKGKlTloAI)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918162417.png)
+
 #### DS-MVSNet: Unsupervised Multi-view Stereo via Depth Synthesis
 
 - ![Publication](https://img.shields.io/badge/2022-ACMMM-5bb318)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2208.06674-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2208.06674)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/wdkyh/DS-MVSNet?logo=github&label=Stars)](https://github.com/wdkyh/DS-MVSNet)
-- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBkPSJNNDk0LjkgOTYuMDFjLTM4Ljc4IDAtNzUuMjIgMTUuMDktMTAyLjYgNDIuNUwzMjAgMjEwLjhMMjQ3LjggMTM4LjVjLTI3LjQxLTI3LjQxLTYzLjg0LTQyLjUtMTAyLjYtNDIuNUM2NS4xMSA5Ni4wMSAwIDE2MS4xIDAgMjQxLjF2MjkuNzVjMCA4MC4wMyA2NS4xMSAxNDUuMSAxNDUuMSAxNDUuMWMzOC43OCAwIDc1LjIyLTE1LjA5IDEwMi42LTQyLjVMMzIwIDMwMS4zbDcyLjIzIDcyLjI1YzI3LjQxIDI3LjQxIDYzLjg0IDQyLjUgMTAyLjYgNDIuNUM1NzQuOSA0MTYgNjQwIDM1MC45IDY0MCAyNzAuOXYtMjkuNzVDNjQwIDE2MS4xIDU3NC45IDk2LjAxIDQ5NC45IDk2LjAxek0yMDIuNSAzMjguM2MtMTUuMzEgMTUuMzEtMzUuNjkgMjMuNzUtNTcuMzggMjMuNzVDMTAwLjQgMzUyIDY0IDMxNS42IDY0IDI3MC45di0yOS43NWMwLTQ0LjcyIDM2LjQxLTgxLjEzIDgxLjE0LTgxLjEzYzIxLjY5IDAgNDIuMDYgOC40MzggNTcuMzggMjMuNzVsNzIuMjMgNzIuMjVMMjAyLjUgMzI4LjN6TTU3NiAyNzAuOWMwIDQ0LjcyLTM2LjQxIDgxLjEzLTgxLjE0IDgxLjEzYy0yMS42OSAwLTQyLjA2LTguNDM4LTU3LjM4LTIzLjc1bC03Mi4yMy03Mi4yNWw3Mi4yMy03Mi4yNWMxNS4zMS0xNS4zMSAzNS42OS0yMy43NSA1Ny4zOC0yMy43NUM1MzkuNiAxNjAgNTc2IDE5Ni40IDU3NiAyNDEuMVYyNzAuOXoiLz48L3N2Zz4=)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/ds-mvs.png)
 
 #### KD-MVS: Knowledge Distillation Based Self-supervised Learning for Multi-view Stereo
 
 - ![Publication](https://img.shields.io/badge/2022-ECCV-f3722c)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2207.10425-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2207.10425)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/megvii-research/KD-MVS?logo=github&label=Stars)](https://github.com/megvii-research/KD-MVS)
-- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBkPSJNNDk0LjkgOTYuMDFjLTM4Ljc4IDAtNzUuMjIgMTUuMDktMTAyLjYgNDIuNUwzMjAgMjEwLjhMMjQ3LjggMTM4LjVjLTI3LjQxLTI3LjQxLTYzLjg0LTQyLjUtMTAyLjYtNDIuNUM2NS4xMSA5Ni4wMSAwIDE2MS4xIDAgMjQxLjF2MjkuNzVjMCA4MC4wMyA2NS4xMSAxNDUuMSAxNDUuMSAxNDUuMWMzOC43OCAwIDc1LjIyLTE1LjA5IDEwMi42LTQyLjVMMzIwIDMwMS4zbDcyLjIzIDcyLjI1YzI3LjQxIDI3LjQxIDYzLjg0IDQyLjUgMTAyLjYgNDIuNUM1NzQuOSA0MTYgNjQwIDM1MC45IDY0MCAyNzAuOXYtMjkuNzVDNjQwIDE2MS4xIDU3NC45IDk2LjAxIDQ5NC45IDk2LjAxek0yMDIuNSAzMjguM2MtMTUuMzEgMTUuMzEtMzUuNjkgMjMuNzUtNTcuMzggMjMuNzVDMTAwLjQgMzUyIDY0IDMxNS42IDY0IDI3MC45di0yOS43NWMwLTQ0LjcyIDM2LjQxLTgxLjEzIDgxLjE0LTgxLjEzYzIxLjY5IDAgNDIuMDYgOC40MzggNTcuMzggMjMuNzVsNzIuMjMgNzIuMjVMMjAyLjUgMzI4LjN6TTU3NiAyNzAuOWMwIDQ0LjcyLTM2LjQxIDgxLjEzLTgxLjE0IDgxLjEzYy0yMS42OSAwLTQyLjA2LTguNDM4LTU3LjM4LTIzLjc1bC03Mi4yMy03Mi4yNWw3Mi4yMy03Mi4yNWMxNS4zMS0xNS4zMSAzNS42OS0yMy43NSA1Ny4zOC0yMy43NUM1MzkuNiAxNjAgNTc2IDE5Ni40IDU3NiAyNDEuMVYyNzAuOXoiLz48L3N2Zz4=) [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://dingyikang.github.io/kdmvs.github.io)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black) [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://dingyikang.github.io/kdmvs.github.io)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/kd-mvs.png)
 
 #### Semi-supervised Deep Multi-view Stereo
@@ -42,8 +61,8 @@
 
 - ![Publication](https://img.shields.io/badge/2022-ECCV-f3722c)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2203.03949-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2203.03949)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/Boese0601/RC-MVSNet?logo=github&label=Stars)](https://github.com/Boese0601/RC-MVSNet)
-- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBkPSJNNDk0LjkgOTYuMDFjLTM4Ljc4IDAtNzUuMjIgMTUuMDktMTAyLjYgNDIuNUwzMjAgMjEwLjhMMjQ3LjggMTM4LjVjLTI3LjQxLTI3LjQxLTYzLjg0LTQyLjUtMTAyLjYtNDIuNUM2NS4xMSA5Ni4wMSAwIDE2MS4xIDAgMjQxLjF2MjkuNzVjMCA4MC4wMyA2NS4xMSAxNDUuMSAxNDUuMSAxNDUuMWMzOC43OCAwIDc1LjIyLTE1LjA5IDEwMi42LTQyLjVMMzIwIDMwMS4zbDcyLjIzIDcyLjI1YzI3LjQxIDI3LjQxIDYzLjg0IDQyLjUgMTAyLjYgNDIuNUM1NzQuOSA0MTYgNjQwIDM1MC45IDY0MCAyNzAuOXYtMjkuNzVDNjQwIDE2MS4xIDU3NC45IDk2LjAxIDQ5NC45IDk2LjAxek0yMDIuNSAzMjguM2MtMTUuMzEgMTUuMzEtMzUuNjkgMjMuNzUtNTcuMzggMjMuNzVDMTAwLjQgMzUyIDY0IDMxNS42IDY0IDI3MC45di0yOS43NWMwLTQ0LjcyIDM2LjQxLTgxLjEzIDgxLjE0LTgxLjEzYzIxLjY5IDAgNDIuMDYgOC40MzggNTcuMzggMjMuNzVsNzIuMjMgNzIuMjVMMjAyLjUgMzI4LjN6TTU3NiAyNzAuOWMwIDQ0LjcyLTM2LjQxIDgxLjEzLTgxLjE0IDgxLjEzYy0yMS42OSAwLTQyLjA2LTguNDM4LTU3LjM4LTIzLjc1bC03Mi4yMy03Mi4yNWw3Mi4yMy03Mi4yNWMxNS4zMS0xNS4zMSAzNS42OS0yMy43NSA1Ny4zOC0yMy43NUM1MzkuNiAxNjAgNTc2IDE5Ni40IDU3NiAyNDEuMVYyNzAuOXoiLz48L3N2Zz4=) [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://boese0601.github.io/rc-mvsnet)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220318172139.png)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black) [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://boese0601.github.io/rc-mvsnet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918150444.png)
 
 #### Enhancing Multi-view Stereo with Contrastive Matching and Weighted Focal Loss
 
@@ -97,7 +116,7 @@
 
 - ![Publication](https://img.shields.io/badge/2022-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2112.02338-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2112.02338)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/MiZhenxing/GBi-Net?logo=github&label=Stars)](https://github.com/MiZhenxing/GBi-Net)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220315004143.png)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918151130.png)
 
 #### Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss - [UniMVSNet]
 
@@ -118,7 +137,7 @@
 - ![Publication](https://img.shields.io/badge/2022-ICLR-a8dadc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/pdf?id=_Wzj0J2xs2D) [![Supp](https://img.shields.io/badge/Supplementary-OTHER-blue)](https://openreview.net/attachment?id=_Wzj0J2xs2D&name=supplementary_material) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2112.05999-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2112.05999)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/TruongKhang/cds-mvsnet?logo=github&label=Stars)](https://github.com/TruongKhang/cds-mvsnet)
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/curvature-guided-dynamic-scale-networks-for-1/3d-reconstruction-on-dtu)](https://paperswithcode.com/sota/3d-reconstruction-on-dtu?p=curvature-guided-dynamic-scale-networks-for-1) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/curvature-guided-dynamic-scale-networks-for-1/point-clouds-on-tanks-and-temples)](https://paperswithcode.com/sota/point-clouds-on-tanks-and-temples?p=curvature-guided-dynamic-scale-networks-for-1)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220908011155.png)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918150121.png)
 
 #### IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo
 
@@ -177,20 +196,20 @@
 - ![Publication](https://img.shields.io/badge/2021-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2021/papers/Duzceker_DeepVideoMVS_Multi-View_Stereo_on_Video_With_Recurrent_Spatio-Temporal_Fusion_CVPR_2021_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Duzceker_DeepVideoMVS_Multi-View_Stereo_CVPR_2021_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2012.02177-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2012.02177)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ardaduz/deep-video-mvs?logo=github&label=Stars)](https://github.com/ardaduz/deep-video-mvs)
 - [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=ikpotjxwcp4)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314202836.png)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918150314.png)
 
 #### Self-Supervised Learning of Depth Inference for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2021-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Self-Supervised_Learning_of_Depth_Inference_for_Multi-View_Stereo_CVPR_2021_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Yang_Self-Supervised_Learning_of_CVPR_2021_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2104.02972-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2104.02972)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/JiayuYANG/Self-supervised-CVP-MVSNet?logo=github&label=Stars)](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)
-- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBkPSJNNDk0LjkgOTYuMDFjLTM4Ljc4IDAtNzUuMjIgMTUuMDktMTAyLjYgNDIuNUwzMjAgMjEwLjhMMjQ3LjggMTM4LjVjLTI3LjQxLTI3LjQxLTYzLjg0LTQyLjUtMTAyLjYtNDIuNUM2NS4xMSA5Ni4wMSAwIDE2MS4xIDAgMjQxLjF2MjkuNzVjMCA4MC4wMyA2NS4xMSAxNDUuMSAxNDUuMSAxNDUuMWMzOC43OCAwIDc1LjIyLTE1LjA5IDEwMi42LTQyLjVMMzIwIDMwMS4zbDcyLjIzIDcyLjI1YzI3LjQxIDI3LjQxIDYzLjg0IDQyLjUgMTAyLjYgNDIuNUM1NzQuOSA0MTYgNjQwIDM1MC45IDY0MCAyNzAuOXYtMjkuNzVDNjQwIDE2MS4xIDU3NC45IDk2LjAxIDQ5NC45IDk2LjAxek0yMDIuNSAzMjguM2MtMTUuMzEgMTUuMzEtMzUuNjkgMjMuNzUtNTcuMzggMjMuNzVDMTAwLjQgMzUyIDY0IDMxNS42IDY0IDI3MC45di0yOS43NWMwLTQ0LjcyIDM2LjQxLTgxLjEzIDgxLjE0LTgxLjEzYzIxLjY5IDAgNDIuMDYgOC40MzggNTcuMzggMjMuNzVsNzIuMjMgNzIuMjVMMjAyLjUgMzI4LjN6TTU3NiAyNzAuOWMwIDQ0LjcyLTM2LjQxIDgxLjEzLTgxLjE0IDgxLjEzYy0yMS42OSAwLTQyLjA2LTguNDM4LTU3LjM4LTIzLjc1bC03Mi4yMy03Mi4yNWw3Mi4yMy03Mi4yNWMxNS4zMS0xNS4zMSAzNS42OS0yMy43NSA1Ny4zOC0yMy43NUM1MzkuNiAxNjAgNTc2IDE5Ni40IDU3NiAyNDEuMVYyNzAuOXoiLz48L3N2Zz4=)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220908011641.png)
 
 #### Mˆ3VSNet: Unsupervised multi-metric multi-view stereo network
 
 - ![Publication](https://img.shields.io/badge/2021-ICIP-3a506b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2005.00363-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2005.00363)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/whubaichuan/M3VSNet?logo=github&label=Stars)](https://github.com/whubaichuan/M3VSNet)
-- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBkPSJNNDk0LjkgOTYuMDFjLTM4Ljc4IDAtNzUuMjIgMTUuMDktMTAyLjYgNDIuNUwzMjAgMjEwLjhMMjQ3LjggMTM4LjVjLTI3LjQxLTI3LjQxLTYzLjg0LTQyLjUtMTAyLjYtNDIuNUM2NS4xMSA5Ni4wMSAwIDE2MS4xIDAgMjQxLjF2MjkuNzVjMCA4MC4wMyA2NS4xMSAxNDUuMSAxNDUuMSAxNDUuMWMzOC43OCAwIDc1LjIyLTE1LjA5IDEwMi42LTQyLjVMMzIwIDMwMS4zbDcyLjIzIDcyLjI1YzI3LjQxIDI3LjQxIDYzLjg0IDQyLjUgMTAyLjYgNDIuNUM1NzQuOSA0MTYgNjQwIDM1MC45IDY0MCAyNzAuOXYtMjkuNzVDNjQwIDE2MS4xIDU3NC45IDk2LjAxIDQ5NC45IDk2LjAxek0yMDIuNSAzMjguM2MtMTUuMzEgMTUuMzEtMzUuNjkgMjMuNzUtNTcuMzggMjMuNzVDMTAwLjQgMzUyIDY0IDMxNS42IDY0IDI3MC45di0yOS43NWMwLTQ0LjcyIDM2LjQxLTgxLjEzIDgxLjE0LTgxLjEzYzIxLjY5IDAgNDIuMDYgOC40MzggNTcuMzggMjMuNzVsNzIuMjMgNzIuMjVMMjAyLjUgMzI4LjN6TTU3NiAyNzAuOWMwIDQ0LjcyLTM2LjQxIDgxLjEzLTgxLjE0IDgxLjEzYy0yMS42OSAwLTQyLjA2LTguNDM4LTU3LjM4LTIzLjc1bC03Mi4yMy03Mi4yNWw3Mi4yMy03Mi4yNWMxNS4zMS0xNS4zMSAzNS42OS0yMy43NSA1Ny4zOC0yMy43NUM1MzkuNiAxNjAgNTc2IDE5Ni40IDU3NiAyNDEuMVYyNzAuOXoiLz48L3N2Zz4=)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314235727.png)
 
 #### AA-RMVSNet: Adaptive Aggregation Recurrent Multi-View Stereo Network
@@ -203,14 +222,14 @@
 
 - ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Digging_Into_Uncertainty_in_Self-Supervised_Multi-View_Stereo_ICCV_2021_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xu_Digging_Into_Uncertainty_ICCV_2021_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2108.12966-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2108.12966)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ToughStoneX/U-MVS?logo=github&label=Stars)](https://github.com/ToughStoneX/U-MVS)
-- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBkPSJNNDk0LjkgOTYuMDFjLTM4Ljc4IDAtNzUuMjIgMTUuMDktMTAyLjYgNDIuNUwzMjAgMjEwLjhMMjQ3LjggMTM4LjVjLTI3LjQxLTI3LjQxLTYzLjg0LTQyLjUtMTAyLjYtNDIuNUM2NS4xMSA5Ni4wMSAwIDE2MS4xIDAgMjQxLjF2MjkuNzVjMCA4MC4wMyA2NS4xMSAxNDUuMSAxNDUuMSAxNDUuMWMzOC43OCAwIDc1LjIyLTE1LjA5IDEwMi42LTQyLjVMMzIwIDMwMS4zbDcyLjIzIDcyLjI1YzI3LjQxIDI3LjQxIDYzLjg0IDQyLjUgMTAyLjYgNDIuNUM1NzQuOSA0MTYgNjQwIDM1MC45IDY0MCAyNzAuOXYtMjkuNzVDNjQwIDE2MS4xIDU3NC45IDk2LjAxIDQ5NC45IDk2LjAxek0yMDIuNSAzMjguM2MtMTUuMzEgMTUuMzEtMzUuNjkgMjMuNzUtNTcuMzggMjMuNzVDMTAwLjQgMzUyIDY0IDMxNS42IDY0IDI3MC45di0yOS43NWMwLTQ0LjcyIDM2LjQxLTgxLjEzIDgxLjE0LTgxLjEzYzIxLjY5IDAgNDIuMDYgOC40MzggNTcuMzggMjMuNzVsNzIuMjMgNzIuMjVMMjAyLjUgMzI4LjN6TTU3NiAyNzAuOWMwIDQ0LjcyLTM2LjQxIDgxLjEzLTgxLjE0IDgxLjEzYy0yMS42OSAwLTQyLjA2LTguNDM4LTU3LjM4LTIzLjc1bC03Mi4yMy03Mi4yNWw3Mi4yMy03Mi4yNWMxNS4zMS0xNS4zMSAzNS42OS0yMy43NSA1Ny4zOC0yMy43NUM1MzkuNiAxNjAgNTc2IDE5Ni40IDU3NiAyNDEuMVYyNzAuOXoiLz48L3N2Zz4=)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314210011.png)
 
 #### Self-supervised multi-view stereo via effective co-segmentation and data-augmentation
 
 - ![Publication](https://img.shields.io/badge/2021-AAAI-ffafcc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.aaai.org/AAAI21Papers/AAAI-2549.XuH.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2104.05374-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2104.05374)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ToughStoneX/Self-Supervised-MVS?logo=github&label=Stars)](https://github.com/ToughStoneX/Self-Supervised-MVS)
-- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBkPSJNNDk0LjkgOTYuMDFjLTM4Ljc4IDAtNzUuMjIgMTUuMDktMTAyLjYgNDIuNUwzMjAgMjEwLjhMMjQ3LjggMTM4LjVjLTI3LjQxLTI3LjQxLTYzLjg0LTQyLjUtMTAyLjYtNDIuNUM2NS4xMSA5Ni4wMSAwIDE2MS4xIDAgMjQxLjF2MjkuNzVjMCA4MC4wMyA2NS4xMSAxNDUuMSAxNDUuMSAxNDUuMWMzOC43OCAwIDc1LjIyLTE1LjA5IDEwMi42LTQyLjVMMzIwIDMwMS4zbDcyLjIzIDcyLjI1YzI3LjQxIDI3LjQxIDYzLjg0IDQyLjUgMTAyLjYgNDIuNUM1NzQuOSA0MTYgNjQwIDM1MC45IDY0MCAyNzAuOXYtMjkuNzVDNjQwIDE2MS4xIDU3NC45IDk2LjAxIDQ5NC45IDk2LjAxek0yMDIuNSAzMjguM2MtMTUuMzEgMTUuMzEtMzUuNjkgMjMuNzUtNTcuMzggMjMuNzVDMTAwLjQgMzUyIDY0IDMxNS42IDY0IDI3MC45di0yOS43NWMwLTQ0LjcyIDM2LjQxLTgxLjEzIDgxLjE0LTgxLjEzYzIxLjY5IDAgNDIuMDYgOC40MzggNTcuMzggMjMuNzVsNzIuMjMgNzIuMjVMMjAyLjUgMzI4LjN6TTU3NiAyNzAuOWMwIDQ0LjcyLTM2LjQxIDgxLjEzLTgxLjE0IDgxLjEzYy0yMS42OSAwLTQyLjA2LTguNDM4LTU3LjM4LTIzLjc1bC03Mi4yMy03Mi4yNWw3Mi4yMy03Mi4yNWMxNS4zMS0xNS4zMSAzNS42OS0yMy43NSA1Ny4zOC0yMy43NUM1MzkuNiAxNjAgNTc2IDE5Ni40IDU3NiAyNDEuMVYyNzAuOXoiLz48L3N2Zz4=)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314235205.png)
 
 #### MVS2D: Efficient Multi-view Stereo via Attention-Driven 2D Convolutions
@@ -218,7 +237,7 @@
 - ![Publication](https://img.shields.io/badge/2021-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2104.13325-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2104.13325)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/zhenpeiyang/MVS2D?logo=github&label=Stars)](https://github.com/zhenpeiyang/MVS2D)
 - [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://zhenpeiyang.github.io/MVS2D/)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220318010952.png)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918151444.png)
 
 #### IB-MVS: An Iterative Algorithm for Deep Multi-View Stereo based on Binary Decisions
 
@@ -238,7 +257,7 @@
 - ![Publication](https://img.shields.io/badge/2021-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_NerfingMVS_Guided_Optimization_of_Neural_Radiance_Fields_for_Indoor_Multi-View_ICCV_2021_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-ZIP-b5e48c)](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wei_NerfingMVS_Guided_Optimization_ICCV_2021_supplemental.zip) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2109.01129-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2109.01129)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/weiyithu/NerfingMVS?logo=github&label=Stars)](https://github.com/weiyithu/NerfingMVS)
 - [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://youtu.be/i-b5lPnYipA) [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://weiyithu.github.io/NerfingMVS)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220318180230.png)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918151236.png)
 
 #### Just a Few Points Are All You Need for Multi-View Stereo: A Novel Semi-Supervised Learning Method for Multi-View Stereo
 
@@ -267,7 +286,7 @@
 #### HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images
 
 - ![Publication](https://img.shields.io/badge/2021-IEEE--Access-3a506b) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9319163)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314222634.png)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918151327.png)
 
 #### AACVP-MVSNet: Attention-aware cost volume pyramid based multi-view stereo network for 3D reconstruction. ISPRS Journal of Photogrammetry and Remote Sensing
 
@@ -284,9 +303,9 @@
 
 - ![Publication](https://img.shields.io/badge/2021-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2103.14275-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2103.14275)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/Tangshengku/DDR-Net?logo=github&label=Stars)](https://github.com/Tangshengku/DDR-Net)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314225751.png)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918151543.png)
 
-#### TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo
+#### TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo - [CVA-MVSNet]
 
 - ![Publication](https://img.shields.io/badge/2021-CoRL-717D40) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/pdf?id=FzMHiDesj0I) [![Supp](https://img.shields.io/badge/Supplementary-OTHER-blue)](https://openreview.net/attachment?id=FzMHiDesj0I&name=supplementary_material) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2111.07418-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2111.07418)
 - ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/tum-vision/tandem?logo=github&label=Stars)](https://github.com/tum-vision/tandem)
@@ -335,7 +354,7 @@
 #### Learning Inverse Depth Regression for Multi-View Stereo with Correlation Cost Volume - [CIDER]
 
 - ![Publication](https://img.shields.io/badge/2020-AAAI-ffafcc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ojs.aaai.org//index.php/AAAI/article/view/6939/6793) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1912.11746-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1912.11746)
-- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0yNTYgMEMxMTQuNiAwIDAgMTE0LjYgMCAyNTZzMTE0LjYgMjU2IDI1NiAyNTZzMjU2LTExNC42IDI1Ni0yNTZTMzk3LjQgMCAyNTYgMHpNMjU2IDQwMGMtMTggMC0zMi0xNC0zMi0zMnMxMy4xLTMyIDMyLTMyYzE3LjEgMCAzMiAxNCAzMiAzMlMyNzMuMSA0MDAgMjU2IDQwMHpNMzI1LjEgMjU4TDI4MCAyODZWMjg4YzAgMTMtMTEgMjQtMjQgMjRTMjMyIDMwMSAyMzIgMjg4VjI3MmMwLTggNC0xNiAxMi0yMWw1Ny0zNEMzMDggMjEzIDMxMiAyMDYgMzEyIDE5OEMzMTIgMTg2IDMwMS4xIDE3NiAyODkuMSAxNzZoLTUxLjFDMjI1LjEgMTc2IDIxNiAxODYgMjE2IDE5OGMwIDEzLTExIDI0LTI0IDI0cy0yNC0xMS0yNC0yNEMxNjggMTU5IDE5OSAxMjggMjM3LjEgMTI4aDUxLjFDMzI5IDEyOCAzNjAgMTU5IDM2MCAxOThDMzYwIDIyMiAzNDcgMjQ1IDMyNS4xIDI1OHoiLz48L3N2Zz4=) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/CIDER?logo=github&label=Stars)](https://github.com/GhiXu/CIDER)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/GhiXu/CIDER?logo=github&label=Stars)](https://github.com/GhiXu/CIDER)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/%E6%88%AA%E5%B1%8F2022-03-14%2015.16.20.png)
 
 #### Attention-Aware Multi-View Stereo - [AttMVSNet]
@@ -348,7 +367,7 @@
 - ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_A_Novel_Recurrent_Encoder-Decoder_Structure_for_Large-Scale_Multi-View_Stereo_Reconstruction_CVPR_2020_paper.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2003.00637-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2003.00637)
 - ![Tensorflow](https://img.shields.io/badge/TensorFlow-ff6f00?logo=tensorflow&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/gpcv-liujin/REDNet?logo=github&label=Stars)](https://github.com/gpcv-liujin/REDNet)
 - [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=gZds3nKoPR8)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314152327.png)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918151756.png)
 
 #### Cost Volume Pyramid Based Depth Inference for Multi-View Stereo - [CVP-MVSNet]
 
@@ -372,7 +391,7 @@
 
 - ![Publication](https://img.shields.io/badge/2020-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.bmvc2020-conference.com/assets/papers/0421.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.bmvc2020-conference.com/assets/supp/0421_supp.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2008.0792-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2008.0792)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/jzhangbs/Vis-MVSNet?logo=github&label=Stars)](https://github.com/jzhangbs/Vis-MVSNet)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314184438.png)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918152008.png)
 
 #### A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-view Stereo Reconstruction from An Open Aerial Dataset - [REDNet]
 
@@ -383,19 +402,26 @@
 
 ### 2019
 
+#### Multi-view Stereo by Temporal Nonparametric Fusion
+
+- ![Publication](https://img.shields.io/badge/2019-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hou_Multi-View_Stereo_by_Temporal_Nonparametric_Fusion_ICCV_2019_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Hou_Multi-View_Stereo_by_ICCV_2019_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1904.06397-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1904.06397)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/AaltoML/GP-MVS?logo=github&label=Stars)](https://github.com/AaltoML/GP-MVS)
+- [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=iellGrlNW7k) [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://aaltoml.github.io/GP-MVS/)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918154829.png)
+
 #### DPSNet: End-to-end Deep Plane Sweep Stereo
 
 - ![Publication](https://img.shields.io/badge/2019-ICLR-a8dadc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/pdf?id=ryeYHi0ctQ) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1905.00538-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1905.00538)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/sunghoonim/DPSNet?logo=github&label=Stars)](https://github.com/sunghoonim/DPSNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/dpsnet.png)
 
-#### Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference
+#### Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference - [RMVSNet]
 
 - ![Publication](https://img.shields.io/badge/2019-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yao_Recurrent_MVSNet_for_High-Resolution_Multi-View_Stereo_Depth_Inference_CVPR_2019_paper.pdf) [![Paper](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Yao_Recurrent_MVSNet_for_CVPR_2019_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1902.10556-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1902.10556)
 - ![Tensorflow](https://img.shields.io/badge/TensorFlow-ff6f00?logo=tensorflow&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/YoYo000/MVSNet?logo=github&label=Stars)](https://github.com/YoYo000/MVSNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/%E6%88%AA%E5%B1%8F2022-03-05%2017.46.26.png)
 
-#### Point-Based Multi-View Stereo Network
+#### Point-Based Multi-View Stereo Network - [PointMVSNet]
 
 - ![Publication](https://img.shields.io/badge/2019-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Point-Based_Multi-View_Stereo_Network_ICCV_2019_paper.pdf) [![Paper](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Chen_Point-Based_Multi-View_Stereo_ICCV_2019_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1908.04422-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1908.04422) ![Publication](https://img.shields.io/badge/2020-T--PAMI-7209b7) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9076298)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/callmeray/PointMVSNet?logo=github&label=Stars)](https://github.com/callmeray/PointMVSNet)
@@ -416,15 +442,15 @@
 
 - ![Publication](https://img.shields.io/badge/2019-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.1905.02706-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1905.02706)
 - ![Tensorflow](https://img.shields.io/badge/TensorFlow-ff6f00?logo=tensorflow&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/tejaskhot/unsup_mvs?logo=github&label=Stars)](https://github.com/tejaskhot/unsup_mvs)
-- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBkPSJNNDk0LjkgOTYuMDFjLTM4Ljc4IDAtNzUuMjIgMTUuMDktMTAyLjYgNDIuNUwzMjAgMjEwLjhMMjQ3LjggMTM4LjVjLTI3LjQxLTI3LjQxLTYzLjg0LTQyLjUtMTAyLjYtNDIuNUM2NS4xMSA5Ni4wMSAwIDE2MS4xIDAgMjQxLjF2MjkuNzVjMCA4MC4wMyA2NS4xMSAxNDUuMSAxNDUuMSAxNDUuMWMzOC43OCAwIDc1LjIyLTE1LjA5IDEwMi42LTQyLjVMMzIwIDMwMS4zbDcyLjIzIDcyLjI1YzI3LjQxIDI3LjQxIDYzLjg0IDQyLjUgMTAyLjYgNDIuNUM1NzQuOSA0MTYgNjQwIDM1MC45IDY0MCAyNzAuOXYtMjkuNzVDNjQwIDE2MS4xIDU3NC45IDk2LjAxIDQ5NC45IDk2LjAxek0yMDIuNSAzMjguM2MtMTUuMzEgMTUuMzEtMzUuNjkgMjMuNzUtNTcuMzggMjMuNzVDMTAwLjQgMzUyIDY0IDMxNS42IDY0IDI3MC45di0yOS43NWMwLTQ0LjcyIDM2LjQxLTgxLjEzIDgxLjE0LTgxLjEzYzIxLjY5IDAgNDIuMDYgOC40MzggNTcuMzggMjMuNzVsNzIuMjMgNzIuMjVMMjAyLjUgMzI4LjN6TTU3NiAyNzAuOWMwIDQ0LjcyLTM2LjQxIDgxLjEzLTgxLjE0IDgxLjEzYy0yMS42OSAwLTQyLjA2LTguNDM4LTU3LjM4LTIzLjc1bC03Mi4yMy03Mi4yNWw3Mi4yMy03Mi4yNWMxNS4zMS0xNS4zMSAzNS42OS0yMy43NSA1Ny4zOC0yMy43NUM1MzkuNiAxNjAgNTc2IDE5Ni40IDU3NiAyNDEuMVYyNzAuOXoiLz48L3N2Zz4=)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
 [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://tejaskhot.github.io/unsup_mvs/)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/2%E6%88%AA%E5%B1%8F2022-03-14%2016.51.16.png)
 
 #### MVS2: Deep Unsupervised Multi-View Stereo with Multi-View Symmetry
 
 - ![Publication](https://img.shields.io/badge/2019-3DV-277da1) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/8885975) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1908.11526-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1908.11526)
-- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBkPSJNNDk0LjkgOTYuMDFjLTM4Ljc4IDAtNzUuMjIgMTUuMDktMTAyLjYgNDIuNUwzMjAgMjEwLjhMMjQ3LjggMTM4LjVjLTI3LjQxLTI3LjQxLTYzLjg0LTQyLjUtMTAyLjYtNDIuNUM2NS4xMSA5Ni4wMSAwIDE2MS4xIDAgMjQxLjF2MjkuNzVjMCA4MC4wMyA2NS4xMSAxNDUuMSAxNDUuMSAxNDUuMWMzOC43OCAwIDc1LjIyLTE1LjA5IDEwMi42LTQyLjVMMzIwIDMwMS4zbDcyLjIzIDcyLjI1YzI3LjQxIDI3LjQxIDYzLjg0IDQyLjUgMTAyLjYgNDIuNUM1NzQuOSA0MTYgNjQwIDM1MC45IDY0MCAyNzAuOXYtMjkuNzVDNjQwIDE2MS4xIDU3NC45IDk2LjAxIDQ5NC45IDk2LjAxek0yMDIuNSAzMjguM2MtMTUuMzEgMTUuMzEtMzUuNjkgMjMuNzUtNTcuMzggMjMuNzVDMTAwLjQgMzUyIDY0IDMxNS42IDY0IDI3MC45di0yOS43NWMwLTQ0LjcyIDM2LjQxLTgxLjEzIDgxLjE0LTgxLjEzYzIxLjY5IDAgNDIuMDYgOC40MzggNTcuMzggMjMuNzVsNzIuMjMgNzIuMjVMMjAyLjUgMzI4LjN6TTU3NiAyNzAuOWMwIDQ0LjcyLTM2LjQxIDgxLjEzLTgxLjE0IDgxLjEzYy0yMS42OSAwLTQyLjA2LTguNDM4LTU3LjM4LTIzLjc1bC03Mi4yMy03Mi4yNWw3Mi4yMy03Mi4yNWMxNS4zMS0xNS4zMSAzNS42OS0yMy43NSA1Ny4zOC0yMy43NUM1MzkuNiAxNjAgNTc2IDE5Ni40IDU3NiAyNDEuMVYyNzAuOXoiLz48L3N2Zz4=)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220315002311.png)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220918152057.png)
 
 ### 2018
 
@@ -456,6 +482,16 @@
 - ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue) [![GitHub stars](https://img.shields.io/github/stars/mjiUST/SurfaceNet?logo=github&label=Stars)](https://github.com/mjiUST/SurfaceNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/surfacenet.png)
 
+### Code Only
+
+#### MosaicMVS: Mosaic-based Omnidirectional Multi-view Stereo for Indoor Scenes
+
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/min-jung-shin/MosaicMVS?logo=github&label=Stars)](https://github.com/min-jung-shin/MosaicMVS)
+
+#### IS-MVSNet: Importance-sampling-based MVSNet
+
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/NoOneUST/IS-MVSNet?logo=github&label=Stars)](https://github.com/NoOneUST/IS-MVSNet)
+
 ## PatchMatch-based MVS Methods
 
 ### 2022
@@ -474,7 +510,7 @@
 #### PHI-MVS: Plane Hypothesis Inference Multi-view Stereo for Large-Scale Scene Reconstruction
 
 - ![Publication](https://img.shields.io/badge/2021-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2104.06165-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2104.06165)
-- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0yNTYgMEMxMTQuNiAwIDAgMTE0LjYgMCAyNTZzMTE0LjYgMjU2IDI1NiAyNTZzMjU2LTExNC42IDI1Ni0yNTZTMzk3LjQgMCAyNTYgMHpNMjU2IDQwMGMtMTggMC0zMi0xNC0zMi0zMnMxMy4xLTMyIDMyLTMyYzE3LjEgMCAzMiAxNCAzMiAzMlMyNzMuMSA0MDAgMjU2IDQwMHpNMzI1LjEgMjU4TDI4MCAyODZWMjg4YzAgMTMtMTEgMjQtMjQgMjRTMjMyIDMwMSAyMzIgMjg4VjI3MmMwLTggNC0xNiAxMi0yMWw1Ny0zNEMzMDggMjEzIDMxMiAyMDYgMzEyIDE5OEMzMTIgMTg2IDMwMS4xIDE3NiAyODkuMSAxNzZoLTUxLjFDMjI1LjEgMTc2IDIxNiAxODYgMjE2IDE5OGMwIDEzLTExIDI0LTI0IDI0cy0yNC0xMS0yNC0yNEMxNjggMTU5IDE5OSAxMjggMjM3LjEgMTI4aDUxLjFDMzI5IDEyOCAzNjAgMTU5IDM2MCAxOThDMzYwIDIyMiAzNDcgMjQ1IDMyNS4xIDI1OHoiLz48L3N2Zz4=) [![GitHub stars](https://img.shields.io/github/stars/ss2lyf/PHI-MVS?logo=github&label=Stars)](https://github.com/ss2lyf/PHI-MVS)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/ss2lyf/PHI-MVS?logo=github&label=Stars)](https://github.com/ss2lyf/PHI-MVS)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220324214303.png)
 
 #### DP-MVS: Detail Preserving Multi-View Surface Reconstruction of Large-Scale Scenes
