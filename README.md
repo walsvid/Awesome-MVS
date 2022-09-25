@@ -8,6 +8,11 @@
 
 ### 2022
 
+#### WT-MVSNet: Window-based Transformers for Multi-view Stereo
+
+- ![Publication](https://img.shields.io/badge/2022-NeurIPS-480ca8)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.14319-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.14319)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/wt-mvs.png)
+
 #### A Benchmark and a Baseline for Robust Multi-view Depth Estimation
 
 - ![Publication](https://img.shields.io/badge/2022-3DV-277da1)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2209.06681-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2209.06681)
@@ -106,11 +111,6 @@
 - ![Publication](https://img.shields.io/badge/2022-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.03783-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.03783)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/NVlabs/NP-CVP-MVSNet?logo=github&label=Stars)](https://github.com/NVlabs/NP-CVP-MVSNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/np-cvp-mvs2.png)
-
-#### WT-MVSNet: Window-based Transformers for Multi-view Stereo
-
-- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.14319-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.14319)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/wt-mvs.png)
 
 #### Generalized Binary Search Network for Highly-Efficient Multi-View Stereo - [GBi-Net]
 
