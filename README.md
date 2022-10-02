@@ -314,6 +314,13 @@
 
 ### 2020
 
+#### BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Networks
+
+- ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1911.10127-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/1911.10127)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/YoYo000/BlendedMVS?logo=github&label=Stars)](https://github.com/YoYo000/BlendedMVS)
+- [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://youtu.be/3mMuSwpjd8A)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20221002200121.png)
+
 #### MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2020-T--IP-9a8c98) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9115828)
