@@ -13,6 +13,11 @@
 - ![Publication](https://img.shields.io/badge/2022-NeurIPS-480ca8)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.14319-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.14319)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/wt-mvs.png)
 
+#### End-to-End Multi-View Structure-from-Motion with Hypercorrelation Volumes
+
+- ![Publication](https://img.shields.io/badge/2022-SPSIS-3a506b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2209.06926-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2209.06926)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20221002195310.png)
+
 #### A Benchmark and a Baseline for Robust Multi-view Depth Estimation
 
 - ![Publication](https://img.shields.io/badge/2022-3DV-277da1)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2209.06681-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2209.06681)
