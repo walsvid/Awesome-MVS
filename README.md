@@ -8,6 +8,11 @@
 
 ### 2022
 
+#### ParseMVS: Learning Primitive-aware Surface Representations for Sparse Multi-view Stereopsis
+
+- ![Publication](https://img.shields.io/badge/2022-ACMMM-5bb318) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://dl.acm.org/doi/abs/10.1145/3503161.3547920) [![Supp](https://img.shields.io/badge/Supplementary-OTHER-blue)](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3503161.3547920&file=MM22-fp0726.mp4)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20221019213654.png)
+
 #### WT-MVSNet: Window-based Transformers for Multi-view Stereo
 
 - ![Publication](https://img.shields.io/badge/2022-NeurIPS-480ca8)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.14319-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.14319)
