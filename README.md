@@ -4,7 +4,7 @@
 
 > Contributions welcomed!
 
-## Learning-based MVS Metho`ds
+## Learning-based MVS Methods
 
 ### 2022
 
