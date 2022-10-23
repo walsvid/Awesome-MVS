@@ -4,14 +4,25 @@
 
 > Contributions welcomed!
 
-## Learning-based MVS Methods
+## Learning-based MVS Metho`ds
 
 ### 2022
+
+#### Multi-View Guided Multi-View Stereo - [Guided-MVS]
+
+- ![Publication](https://img.shields.io/badge/2022-IROS-a4ac86)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2210.11467-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2210.11467)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/andreaconti/multi-view-guided-multi-view-stereo?logo=github&label=Stars)](https://github.com/andreaconti/multi-view-guided-multi-view-stereo)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20221023193949.png)
 
 #### ParseMVS: Learning Primitive-aware Surface Representations for Sparse Multi-view Stereopsis
 
 - ![Publication](https://img.shields.io/badge/2022-ACMMM-5bb318) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://dl.acm.org/doi/abs/10.1145/3503161.3547920) [![Supp](https://img.shields.io/badge/Supplementary-OTHER-blue)](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3503161.3547920&file=MM22-fp0726.mp4)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20221019213654.png)
+
+#### Deep PatchMatch MVS with Learned Patch Coplanarity, Geometric Consistency and Adaptive Pixel Sampling
+
+- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2210.07582-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2210.07582)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20221023194323.png)
 
 #### WT-MVSNet: Window-based Transformers for Multi-view Stereo
 
