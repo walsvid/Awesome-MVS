@@ -65,6 +65,12 @@
 - ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/ds-mvs.png)
 
+#### IS-MVSNet: Importance-sampling-based MVSNet
+
+- ![Publication](https://img.shields.io/badge/2022-ECCV-f3722c)  [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920663.pdf)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/NoOneUST/IS-MVSNet?logo=github&label=Stars)](https://github.com/NoOneUST/IS-MVSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20221029223326.png)
+
 #### KD-MVS: Knowledge Distillation Based Self-supervised Learning for Multi-view Stereo
 
 - ![Publication](https://img.shields.io/badge/2022-ECCV-f3722c)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2207.10425-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2207.10425)
@@ -515,10 +521,6 @@
 #### MosaicMVS: Mosaic-based Omnidirectional Multi-view Stereo for Indoor Scenes
 
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/min-jung-shin/MosaicMVS?logo=github&label=Stars)](https://github.com/min-jung-shin/MosaicMVS)
-
-#### IS-MVSNet: Importance-sampling-based MVSNet
-
-- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/NoOneUST/IS-MVSNet?logo=github&label=Stars)](https://github.com/NoOneUST/IS-MVSNet)
 
 ## PatchMatch-based MVS Methods
 
