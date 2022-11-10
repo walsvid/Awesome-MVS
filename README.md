@@ -186,6 +186,7 @@
 #### DDL-MVS: Depth Discontinuity Learning for MVS Networks - [iMVS]
 
 - ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2203.01391-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2203.01391)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/Mirmix/ddlmvs?logo=github&label=Stars)](https://github.com/Mirmix/ddlmvs)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/imvs.png)
 
 #### PatchMVSNet: Patch-wise Unsupervised Multi-View Stereo for Weakly-Textured Surface Reconstruction
