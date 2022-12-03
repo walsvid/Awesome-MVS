@@ -34,6 +34,11 @@
 - ![Publication](https://img.shields.io/badge/2022-ACMMM-5bb318) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://dl.acm.org/doi/abs/10.1145/3503161.3547920) [![Supp](https://img.shields.io/badge/Supplementary-OTHER-blue)](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3503161.3547920&file=MM22-fp0726.mp4)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20221019213654.png)
 
+#### Self-Supervised Multi-view Stereo via Adjacent Geometry Guided Volume Completion
+
+- ![Publication](https://img.shields.io/badge/2022-ACMMM-5bb318) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://dl.acm.org/doi/10.1145/3503161.3547926) [![Supp](https://img.shields.io/badge/Supplementary-OTHER-blue)](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3503161.3547926&file=MM22-fp0750.mp4)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212040147555.png)
+
 #### Self-supervised Multi-view Stereo via Inter and Intra Network Pseudo Depth
 
 - ![Publication](https://img.shields.io/badge/2022-ACMMM-5bb318) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://dl.acm.org/doi/abs/10.1145/3503161.3548212) [![Supp](https://img.shields.io/badge/Supplementary-OTHER-blue)](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3503161.3548212&file=MM22-fp1890.mp4)
