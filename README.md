@@ -111,11 +111,6 @@
 - ![Publication](https://img.shields.io/badge/2022-ICIP-3a506b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2206.10360-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2206.10360)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/cml-wfl.png)
 
-#### Multi-View Stereo with Transformer - [MVSTR]
-
-- ![Publication](https://img.shields.io/badge/2022-ECCV-f3722c)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2112.00336-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2112.00336)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220908010542.png)
-
 #### MVSTER: Epipolar Transformer for Efficient Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2022-ECCV-f3722c)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2204.07346-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2204.07346)
@@ -147,6 +142,16 @@
 
 - ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.02481-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.02481)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/corrmvs.png)
+
+#### Multi-View Stereo with Transformer - [MVSTR]
+
+- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2112.00336-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2112.00336)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220908010542.png)
+
+#### MVS-T: A Coarse-to-Fine Multi-View Stereo Network with Transformer for Low-Resolution Images 3D Reconstruction
+
+- ![Publication](https://img.shields.io/badge/2022-Sensors-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.mdpi.com/1424-8220/22/19/7659)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212032000161.png)
 
 #### Efficient Multi-View Stereo by Iterative Dynamic Cost Volume
 
