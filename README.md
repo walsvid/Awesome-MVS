@@ -39,6 +39,11 @@
 - ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2210.07582-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2210.07582)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20221023194323.png)
 
+#### PSP-MVSNet: Deep Patch-Based Similarity Perceptual for Multi-view Stereo Depth Inference
+
+- ![Publication](https://img.shields.io/badge/2022-ICANN-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/chapter/10.1007/978-3-031-15919-0_27)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212032047985.png)
+
 #### End-to-End Multi-View Structure-from-Motion with Hypercorrelation Volumes
 
 - ![Publication](https://img.shields.io/badge/2022-SPSIS-3a506b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2209.06926-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2209.06926)
