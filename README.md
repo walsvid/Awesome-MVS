@@ -13,6 +13,11 @@
 
 ### 2022
 
+#### Adaptive Range guided Multi-view Depth Estimation with Normal Ranking Loss - [BDE-MVSNet]
+
+- ![Publication](https://img.shields.io/badge/2022-ACCV-ffee5d) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ACCV2022/papers/Ding_Adaptive_Range_guided_Multi-view_Depth_Estimation_with_Normal_Ranking_Loss_ACCV_2022_paper.pdf)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212061456568.png)
+
 #### ElasticMVS: Learning elastic part representation for self-supervised multi-view stereopsis
 
 - ![Publication](https://img.shields.io/badge/2022-NeurIPS-480ca8) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/forum?id=lAN7mytwrIy) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/attachment?id=lAN7mytwrIy&name=supplementary_material)
