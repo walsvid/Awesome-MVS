@@ -483,6 +483,11 @@
 - [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=gZds3nKoPR8)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/rednet.png)
 
+#### NRMVS: Non-Rigid Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2020-WACV-9d4edd) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_WACV_2020/papers/Innmann_NRMVS_Non-Rigid_Multi-view_Stereo_WACV_2020_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_WACV_2020/supplemental/Innmann_NRMVS_Non-Rigid_Multi-view_WACV_2020_supplemental.pdf)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212091727336.png)
+
 ### 2019
 
 #### Multi-view Stereo by Temporal Nonparametric Fusion
