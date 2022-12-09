@@ -248,6 +248,11 @@
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/Airobin329/RayMVSNet?logo=github&label=Stars)](https://github.com/Airobin329/RayMVSNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/ray-mvs_v2.png)
 
+#### DRI-MVSNet: A depth residual inference network for multi-view stereo images
+
+- ![Publication](https://img.shields.io/badge/2022-PLoS-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8942269/pdf/pone.0264721.pdf)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212091325048.png)
+
 ### 2021
 
 #### Long-range Attention Network for Multi-View Stereo
