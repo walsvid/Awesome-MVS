@@ -580,6 +580,11 @@
 
 ### 2022
 
+#### Multi-View Depth Estimation with Color-Aware Propagation and Texture-Aware Triangulation
+
+- ![Publication](https://img.shields.io/badge/2022-IPEC-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9777330)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212092156548.png)
+
 #### Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo - [ACMMP]
 
 - ![Publication](https://img.shields.io/badge/2022-TPAMI-7209b7) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9863705)
