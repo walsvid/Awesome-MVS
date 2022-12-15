@@ -13,6 +13,12 @@
 - ![Publication](https://img.shields.io/badge/2023-WACV-9d4edd)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2212.06626-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2212.06626)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212142150147.png)
 
+#### 360MVSNet: Deep Multi-view Stereo Network with 360◦ Images for Indoor Scene Reconstruction
+
+- ![Publication](https://img.shields.io/badge/2023-WACV-9d4edd) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://jdily.github.io/resource/360mvsnet/360mvsnet_main.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://jdily.github.io/resource/360mvsnet/360mvsnet_supp.pdf)
+- [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://jdily.github.io/proj_site/360mvsnet_proj.html)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212151245187.png)
+
 #### nLMVS-Net: Deep Non-Lambertian Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2023-WACV-9d4edd)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2207.11876-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2207.11876)
