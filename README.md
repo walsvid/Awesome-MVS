@@ -94,6 +94,7 @@
 #### MVSFormer: Multi-View Stereo with Pre-trained Vision Transformers and Temperature-based Depth
 
 - ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2208.02541-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2208.02541)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ewrfcas/MVSFormer?logo=github&label=Stars)](https://github.com/ewrfcas/MVSFormer)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/mvsformer.png)
 
 #### Cost Volume Pyramid Network with Multi-strategies Range Searching for Multi-view Stereo - [MSCVP-MVSNet]
