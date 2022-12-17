@@ -4,12 +4,26 @@
 
 > Contributions welcomed!
 
+## Learning-based MVS Methods
+
 ### 2023
 
 #### DELS-MVS: Deep Epipolar Line Search for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2023-WACV-9d4edd)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2212.06626-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2212.06626)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212142150147.png)
+
+#### 360MVSNet: Deep Multi-view Stereo Network with 360◦ Images for Indoor Scene Reconstruction
+
+- ![Publication](https://img.shields.io/badge/2023-WACV-9d4edd) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://jdily.github.io/resource/360mvsnet/360mvsnet_main.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://jdily.github.io/resource/360mvsnet/360mvsnet_supp.pdf)
+- [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://jdily.github.io/proj_site/360mvsnet_proj.html)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212151245187.png)
+
+#### nLMVS-Net: Deep Non-Lambertian Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2023-WACV-9d4edd)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2207.11876-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2207.11876)
+- [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://vision.ist.i.kyoto-u.ac.jp/)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212151232484.png)
 
 #### Rethinking Disparity: A Depth Range Free Multi-View Stereo Based on Disparity
 
@@ -80,6 +94,7 @@
 #### MVSFormer: Multi-View Stereo with Pre-trained Vision Transformers and Temperature-based Depth
 
 - ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2208.02541-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2208.02541)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ewrfcas/MVSFormer?logo=github&label=Stars)](https://github.com/ewrfcas/MVSFormer)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/mvsformer.png)
 
 #### Cost Volume Pyramid Network with Multi-strategies Range Searching for Multi-view Stereo - [MSCVP-MVSNet]
