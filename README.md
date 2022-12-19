@@ -37,6 +37,11 @@
 - ![Publication](https://img.shields.io/badge/2022-CG-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.sciencedirect.com/science/article/abs/pii/S0097849322001157)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212191539389.png)
 
+#### Uncertainty-guided Multi-view Stereo Network for Depth Estimation - [UGNet]
+
+- ![Publication](https://img.shields.io/badge/2022-TCSVT-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9797764/)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212191516376.png)
+
 #### Adaptive Range guided Multi-view Depth Estimation with Normal Ranking Loss - [BDE-MVSNet]
 
 - ![Publication](https://img.shields.io/badge/2022-ACCV-ffee5d) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ACCV2022/papers/Ding_Adaptive_Range_guided_Multi-view_Depth_Estimation_with_Normal_Ranking_Loss_ACCV_2022_paper.pdf)
