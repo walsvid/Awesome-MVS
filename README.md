@@ -698,9 +698,10 @@
 - ![Publication](https://img.shields.io/badge/2019-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_Multi-View_Stereo_ICCV_2019_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_ICCV_2019_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1903.10929-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1903.10929)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/tapamvs.png)
 
-#### Plane completion and ﬁltering for multi-view stereo reconstruction
+#### Plane Completion and Filtering for Multi-View Stereo Reconstruction - [PCFMVS]
 
 - ![Publication](https://img.shields.io/badge/2019-GCPR-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://dl.acm.org/doi/abs/10.1007/978-3-030-33676-9_2)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212201715535.png)
 
 #### Pyramid Multi-View Stereo with Local Consistency - [PLC]
 
