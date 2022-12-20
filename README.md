@@ -38,6 +38,12 @@
 
 ### 2022
 
+#### Global Contextual Complementary Network for Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2022-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://bmvc2022.mpi-inf.mpg.de/0919.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://bmvc2022.mpi-inf.mpg.de/0919_poster.pdf)
+- [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://bmvc2022.mpi-inf.mpg.de/919/)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212201648874.png)
+
 #### Hybrid Cost Volume Regularization for Memory-efficient Multi-view Stereo Networks - [HR-MVSNet]
 
 - ![Publication](https://img.shields.io/badge/2022-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://bmvc2022.mpi-inf.mpg.de/0073.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://bmvc2022.mpi-inf.mpg.de/0073_poster.pdf)
