@@ -159,7 +159,7 @@
 
 #### Miper-MVS: Multi-Scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo
 
-- ![Publication](https://img.shields.io/badge/2022-Information_Systems-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4176484)
+- ![Publication](https://img.shields.io/badge/2022-IS-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4176484)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/zhz120/Miper-MVS?logo=github&label=Stars)](https://github.com/zhz120/Miper-MVS)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220908013624.png)
 
@@ -199,7 +199,7 @@
 
 #### Bidirectional Hybrid LSTM Based Recurrent Neural Network for Multi-view Stereo - [BH-MVSNet]
 
-- ![Publication](https://img.shields.io/badge/2020-T--VCG-ff6fb5) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9754239)
+- ![Publication](https://img.shields.io/badge/2020-TVCG-ff6fb5) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9754239)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/bh-mvs.png)
 
 #### Exploiting Correspondences with All-pairs Correlations for Multi-view Depth Estimation
@@ -441,7 +441,7 @@
 
 #### MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo
 
-- ![Publication](https://img.shields.io/badge/2020-T--IP-9a8c98) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9115828)
+- ![Publication](https://img.shields.io/badge/2020-TIP-9a8c98) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9115828)
 - [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=VRTEWxt1P68)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314221417.png)
 
@@ -553,7 +553,7 @@
 
 #### Point-Based Multi-View Stereo Network - [PointMVSNet]
 
-- ![Publication](https://img.shields.io/badge/2019-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Point-Based_Multi-View_Stereo_Network_ICCV_2019_paper.pdf) [![Paper](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Chen_Point-Based_Multi-View_Stereo_ICCV_2019_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1908.04422-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1908.04422) ![Publication](https://img.shields.io/badge/2020-T--PAMI-7209b7) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9076298)
+- ![Publication](https://img.shields.io/badge/2019-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Point-Based_Multi-View_Stereo_Network_ICCV_2019_paper.pdf) [![Paper](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Chen_Point-Based_Multi-View_Stereo_ICCV_2019_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1908.04422-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1908.04422) ![Publication](https://img.shields.io/badge/2020-TPAMI-7209b7) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9076298)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/callmeray/PointMVSNet?logo=github&label=Stars)](https://github.com/callmeray/PointMVSNet)
 - [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=my3jocjpD0U) [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](http://hansf.me/projects/PMVSNet/)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220305175706.png)
@@ -608,7 +608,7 @@
 
 #### SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis
 
-- ![Publication](https://img.shields.io/badge/2017-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1708.01749-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/1708.01749) ![Publication](https://img.shields.io/badge/2020-T--PAMI-7209b7) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9099504)
+- ![Publication](https://img.shields.io/badge/2017-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1708.01749-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/1708.01749) ![Publication](https://img.shields.io/badge/2020-TPAMI-7209b7) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9099504)
 - ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue) [![GitHub stars](https://img.shields.io/github/stars/mjiUST/SurfaceNet?logo=github&label=Stars)](https://github.com/mjiUST/SurfaceNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/surfacenet.png)
 
