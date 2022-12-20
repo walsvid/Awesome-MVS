@@ -38,6 +38,11 @@
 
 ### 2022
 
+#### Hybrid Cost Volume Regularization for Memory-efficient Multi-view Stereo Networks - [HR-MVSNet]
+
+- ![Publication](https://img.shields.io/badge/2022-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://bmvc2022.mpi-inf.mpg.de/0073.pdf)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212201633786.png)
+
 #### Sparse Prior Guided Deep Multi-view Stereo - [SPGNet]
 
 - ![Publication](https://img.shields.io/badge/2022-CG-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.sciencedirect.com/science/article/abs/pii/S0097849322001157)
