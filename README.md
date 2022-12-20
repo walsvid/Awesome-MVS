@@ -295,6 +295,11 @@
 - ![Publication](https://img.shields.io/badge/2022-PLoS-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8942269/pdf/pone.0264721.pdf)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212091325048.png)
 
+#### A Semi‑Supervised Method for PatchMatch Multi‑View Stereo with Sparse Points
+
+- ![Publication](https://img.shields.io/badge/2022-Photonics-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.mdpi.com/2304-6732/9/12/983)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212201722673.png)
+
 ### 2021
 
 #### Long-range Attention Network for Multi-View Stereo
