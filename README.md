@@ -38,6 +38,11 @@
 
 ### 2022
 
+#### Multistage Pixel-Visibility Learning With Cost Regularization for Multiview Stereo
+
+- ![Publication](https://img.shields.io/badge/2022-TASE-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9761790)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212211730712.png)
+
 #### Global Contextual Complementary Network for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2022-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://bmvc2022.mpi-inf.mpg.de/0919.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://bmvc2022.mpi-inf.mpg.de/0919_poster.pdf)
@@ -437,12 +442,6 @@
 
 ### 2020
 
-#### Learning to Adapt Multi-View Stereo by Self-Supervision
-
-- ![Publication](https://img.shields.io/badge/2020-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.bmvc2020-conference.com/assets/papers/0375.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.bmvc2020-conference.com/assets/supp/0375_supp.pdf)
-- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212211637068.png)
-
 #### BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Networks
 
 - ![Publication](https://img.shields.io/badge/2020-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1911.10127-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/1911.10127)
@@ -522,6 +521,12 @@
 - ![Publication](https://img.shields.io/badge/2020-ECCV-f3722c) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490647.pdf) [![Supp](https://img.shields.io/badge/Supplementary-ZIP-b5e48c)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490647-supp.zip) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2007.10872-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2007.10872)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/yhw-yhw/D2HC-RMVSNet?logo=github&label=Stars)](https://github.com/yhw-yhw/D2HC-RMVSNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314180115.png)
+
+#### Learning to Adapt Multi-View Stereo by Self-Supervision
+
+- ![Publication](https://img.shields.io/badge/2020-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.bmvc2020-conference.com/assets/papers/0375.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.bmvc2020-conference.com/assets/supp/0375_supp.pdf)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212211637068.png)
 
 #### Visibility-aware Multi-view Stereo Network - [Vis-MVSNet]
 
