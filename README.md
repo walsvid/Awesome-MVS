@@ -305,6 +305,11 @@
 - ![Publication](https://img.shields.io/badge/2022-Photonics-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.mdpi.com/2304-6732/9/12/983)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212201722673.png)
 
+#### DEMVSNet: Denoising and Depth Inference for Unstructured Multi‐view Stereo on Noised Images
+
+- ![Publication](https://img.shields.io/badge/2022-IETCV-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.12102)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212211746863.png)
+
 ### 2021
 
 #### Long-range Attention Network for Multi-View Stereo
