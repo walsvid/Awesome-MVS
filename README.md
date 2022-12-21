@@ -310,6 +310,11 @@
 - ![Publication](https://img.shields.io/badge/2022-IETCV-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.12102)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212211746863.png)
 
+#### Learning Inverse Depth Regression for Pixelwise Visibility-Aware Multi-View Stereo Networks - [PVSNet]
+
+- ![Publication](https://img.shields.io/badge/2022-IJCV-b1b2ff) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s11263-022-01628-2) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2007.07714-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2007.07714)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314232551.png)
+
 ### 2021
 
 #### Long-range Attention Network for Multi-View Stereo
@@ -459,11 +464,6 @@
 - ![Publication](https://img.shields.io/badge/2020-TIP-9a8c98) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9115828)
 - [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=VRTEWxt1P68)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314221417.png)
-
-#### Learning Inverse Depth Regression for Pixelwise Visibility-Aware Multi-View Stereo Networks - [PVSNet]
-
-- ![Publication](https://img.shields.io/badge/2016-IJCV-b1b2ff) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s11263-022-01628-2) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2007.07714-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2007.07714)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220314232551.png)
 
 #### Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching
 
