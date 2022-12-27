@@ -643,6 +643,11 @@
 
 ### 2022
 
+#### LGP-MVS: Combined Local and Global Planar Priors Guidance for Indoor Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2022-VC-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s00371-022-02737-2)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212271701908.png)
+
 #### Multi-View Depth Estimation with Color-Aware Propagation and Texture-Aware Triangulation
 
 - ![Publication](https://img.shields.io/badge/2022-IPEC-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9777330)
