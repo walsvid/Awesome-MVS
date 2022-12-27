@@ -671,6 +671,11 @@
 - [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://youtu.be/jayUkgiw1-M)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/dp-mvs.png)
 
+#### Adaptive Pixelwise Inference Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2021-ICGIP-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12083/120830K/Adaptive-pixelwise-inference-multi-view-stereo/10.1117/12.2623392.short)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212271636553.png)
+
 ### 2020
 
 #### Mesh-Guided Multi-View Stereo with Pyramid Architecture - [MG-MVS]
