@@ -8,6 +8,12 @@
 
 ### 2023
 
+#### MosaicMVS: Mosaic-based Omnidirectional Multi-view Stereo for Indoor Scenes
+
+- ![Publication](https://img.shields.io/badge/2023-TMM-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/10005048)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/min-jung-shin/MosaicMVS?logo=github&label=Stars)](https://github.com/min-jung-shin/MosaicMVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202301052108279.png)
+
 #### DELS-MVS: Deep Epipolar Line Search for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2023-WACV-9d4edd) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2023/papers/Sormann_DELS-MVS_Deep_Epipolar_Line_Search_for_Multi-View_Stereo_WACV_2023_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2023/supplemental/Sormann_DELS-MVS_Deep_Epipolar_WACV_2023_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2212.06626-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2212.06626)
@@ -632,12 +638,6 @@
 - ![Publication](https://img.shields.io/badge/2017-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.1708.01749-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/1708.01749) ![Publication](https://img.shields.io/badge/2020-TPAMI-7209b7) [![Paper](https://img.shields.io/badge/Journal-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/9099504)
 - ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue) [![GitHub stars](https://img.shields.io/github/stars/mjiUST/SurfaceNet?logo=github&label=Stars)](https://github.com/mjiUST/SurfaceNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/surfacenet.png)
-
-### Code Only
-
-#### MosaicMVS: Mosaic-based Omnidirectional Multi-view Stereo for Indoor Scenes
-
-- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/min-jung-shin/MosaicMVS?logo=github&label=Stars)](https://github.com/min-jung-shin/MosaicMVS)
 
 ## PatchMatch-based MVS Methods
 
