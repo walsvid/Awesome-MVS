@@ -641,6 +641,14 @@
 
 ## PatchMatch-based MVS Methods
 
+### 2023
+
+#### Multiple View Stereo with quadtree-guided priors
+
+- ![Publication](https://img.shields.io/badge/2023-ISPRS-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.sciencedirect.com/science/article/pii/S0924271622003288)
+- ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/3DOM-FBK/openMVS?logo=github&label=Stars)](https://github.com/3DOM-FBK/openMVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202301181821194.png)
+
 ### 2022
 
 #### LGP-MVS: Combined Local and Global Planar Priors Guidance for Indoor Multi-View Stereo
