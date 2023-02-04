@@ -8,6 +8,11 @@
 
 ### 2023
 
+#### MG-MVSNet: Multiple Granularities Feature Fusion Network For Multi-view Stereo
+
+- ![Publication](https://img.shields.io/badge/2023-Neurocomputing-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.sciencedirect.com/science/article/pii/S092523122300070X)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202302041511602.png)
+
 #### MosaicMVS: Mosaic-based Omnidirectional Multi-view Stereo for Indoor Scenes
 
 - ![Publication](https://img.shields.io/badge/2023-TMM-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/10005048)
