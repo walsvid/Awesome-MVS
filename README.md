@@ -648,6 +648,11 @@
 
 ### 2023
 
+#### Visibility-Aware Pixelwise View Selection for Multi-View Stereo Matching - [AMBC]
+
+- ![Publication](https://img.shields.io/badge/2023-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2302.07182-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2302.07182)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202302171947952.png)
+
 #### Multiple View Stereo with quadtree-guided priors
 
 - ![Publication](https://img.shields.io/badge/2023-ISPRS-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.sciencedirect.com/science/article/pii/S0924271622003288)
