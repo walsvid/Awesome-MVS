@@ -8,6 +8,13 @@
 
 ### 2023
 
+#### Unsupervised OmniMVS: Efficient Omnidirectional Depth Inference via Establishing Pseudo-Stereo Supervision - [Un-OmniMVS]
+
+- ![Publication](https://img.shields.io/badge/2023-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2302.09922-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2302.09922)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/Chen-z-s/Un-OmniMVS?logo=github&label=Stars)](https://github.com/Chen-z-s/Un-OmniMVS)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202302241044335.png)
+
 #### MG-MVSNet: Multiple Granularities Feature Fusion Network For Multi-view Stereo
 
 - ![Publication](https://img.shields.io/badge/2023-Neurocomputing-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.sciencedirect.com/science/article/pii/S092523122300070X)
