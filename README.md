@@ -661,6 +661,11 @@
 
 ### 2023
 
+#### Hierarchical Prior Mining for Non-local Multi-View Stereo - [HPM-MVS]
+
+- ![Publication](https://img.shields.io/badge/2023-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2303.09758-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2303.09758)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202303211853339.png)
+
 #### Visibility-Aware Pixelwise View Selection for Multi-View Stereo Matching - [AMBC]
 
 - ![Publication](https://img.shields.io/badge/2023-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2302.07182-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2302.07182)
