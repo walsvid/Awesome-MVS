@@ -11,7 +11,7 @@
 #### Iterative Geometry Encoding Volume for Stereo Matching - [IGEV-MVS]
 
 - ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2303.06615-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2303.06615)
-- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/gangweiX/IGEV?logo=github&label=Stars)](https://github.com/gangweiX/IGEV)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/gangweiX/IGEV?logo=github&label=Stars)](https://github.com/gangweiX/IGEV)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202303141842368.png)
 
 #### Unsupervised OmniMVS: Efficient Omnidirectional Depth Inference via Establishing Pseudo-Stereo Supervision - [Un-OmniMVS]
