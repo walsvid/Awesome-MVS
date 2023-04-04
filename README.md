@@ -26,6 +26,11 @@
 - ![Publication](https://img.shields.io/badge/2023-Neurocomputing-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.sciencedirect.com/science/article/pii/S092523122300070X)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202302041511602.png)
 
+#### FFP-MVSNet: Feature Fusion Based Patchmatch for Multi-view Stereo
+
+- ![Publication](https://img.shields.io/badge/2023-CSPS-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/chapter/10.1007/978-981-99-1260-5_21)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202304042316237.png)
+
 #### MosaicMVS: Mosaic-based Omnidirectional Multi-view Stereo for Indoor Scenes
 
 - ![Publication](https://img.shields.io/badge/2023-TMM-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/10005048)
