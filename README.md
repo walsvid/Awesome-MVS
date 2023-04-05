@@ -3,6 +3,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Contributions welcomed!
+>
+> Learning-based [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)
+>
+> Traditional [2023](#2023-1) | [2022](#2022-1) | [2021](#2021-1) | [2020](#2020-1) | [2019](#2019-1) | [2018](#2018-1) | [Early](#early)
 
 ## Learning-based MVS Methods
 
@@ -66,6 +70,13 @@
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/mvsformer.png)
 
 ### 2022
+
+#### GigaMVS: A Benchmark for Ultra-Large-Scale Gigapixel-Level 3D Reconstruction
+
+- ![Publication](https://img.shields.io/badge/2022-TPAMI-7209b7) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9547729)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/THU-luvision/GigaMVS?logo=github&label=Stars)](https://github.com/THU-luvision/GigaMVS)
+- [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://gigavision.cn/data/news/?nav=GigaMVS%20RAWDATA)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202304051548289.png)
 
 #### Multistage Pixel-Visibility Learning With Cost Regularization for Multiview Stereo
 
@@ -251,7 +262,7 @@
 - ![Publication](https://img.shields.io/badge/2022-Sensors-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.mdpi.com/1424-8220/22/19/7659)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212032000161.png)
 
-#### Efficient Multi-View Stereo by Iterative Dynamic Cost Volume
+#### Efficient Multi-View Stereo by Iterative Dynamic Cost Volume - [Effi-MVS]
 
 - ![Publication](https://img.shields.io/badge/2022-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Efficient_Multi-View_Stereo_by_Iterative_Dynamic_Cost_Volume_CVPR_2022_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wang_Efficient_Multi-View_Stereo_CVPR_2022_supplemental.pdf)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/bdwsq1996/Effi-MVS?logo=github&label=Stars)](https://github.com/bdwsq1996/Effi-MVS)
@@ -780,12 +791,39 @@
 - ![Publication](https://img.shields.io/badge/2019-PG-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](http://graphvision.whu.edu.cn/papers/paper1245_CRC.pdf)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220320194358.png)
 
-### early
+### 2018
 
-#### Accurate, Dense, and Robust Multi-View Stereopsis - [Furu / PMVS]
+#### Multi-View Stereo with Asymmetric Checkerboard Propagation and Multi-Hypothesis Joint View Selection - [AMHMVS]
 
-- ![Publication](https://img.shields.io/badge/2007-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/5226635)
-- [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://www.di.ens.fr/pmvs/)
+- ![Publication](https://img.shields.io/badge/2018-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.1805.07920-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/1805.07920)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202304051553371.png)
+
+### Early
+
+#### Multi-view Stereo Combined with Space Propagation and Pixel-Level Refinement
+
+- ![Publication](https://img.shields.io/badge/2017-ACPR-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/8575825)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202304051603722.png)
+
+#### Pixelwise view selection for unstructured multi-view stereo - [COLMAP]
+
+- ![Publication](https://img.shields.io/badge/2016-ECCV-f3722c) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46487-9_31.pdf) ![Publication](https://img.shields.io/badge/2016-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-ZIP-b5e48c)](https://openaccess.thecvf.com/content_cvpr_2016/supplemental/Schonberger_Structure-From-Motion_Revisited_2016_CVPR_supplemental.zip)
+- ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/colmap/colmap?logo=github&label=Stars)](https://github.com/colmap/colmap)
+
+#### A TV prior for high-quality scalable multi-view stereo reconstruction
+
+- ![Publication](https://img.shields.io/badge/2016-IJCV-b1b2ff) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.cs.middlebury.edu/~schar/papers/Kuhn-3DV-2014.pdf)
+
+#### Massively Parallel Multiview Stereopsis by Surface Normal Diffusion - [Gipuma]
+
+- ![Publication](https://img.shields.io/badge/2015-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-iccv15.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](http://www.prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-supplementary-iccv15.pdf)
+- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/kysucix/gipuma?logo=github&label=Stars)](https://github.com/kysucix/gipuma) ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/kysucix/fusibile?logo=github&label=Stars)](https://github.com/kysucix/fusibile)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/gipuma.png)
+
+#### Patchmatch stereo-stereo matching with slanted support windows
+
+- ![Publication](https://img.shields.io/badge/2011-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](http://www.bmva.org/bmvc/2011/proceedings/paper14/paper14.pdf)
+- ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ethan-li-coding/PatchMatchStereo?logo=github&label=Stars)](https://github.com/ethan-li-coding/PatchMatchStereo)
 
 #### Efficient large-scale multi-view stereo for ultra high-resolution image sets - [Tola / EMVS]
 
@@ -796,25 +834,10 @@
 
 - ![Publication](https://img.shields.io/badge/2008-ECCV-f3722c) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/chapter/10.1007/978-3-540-88682-2_58)
 
-#### Patchmatch stereo-stereo matching with slanted support windows
+#### Accurate, Dense, and Robust Multi-View Stereopsis - [Furu / PMVS]
 
-- ![Publication](https://img.shields.io/badge/2011-BMVC-b98b73) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](http://www.bmva.org/bmvc/2011/proceedings/paper14/paper14.pdf)
-- ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ethan-li-coding/PatchMatchStereo?logo=github&label=Stars)](https://github.com/ethan-li-coding/PatchMatchStereo)
-
-#### Pixelwise view selection for unstructured multi-view stereo - [COLMAP]
-
-- ![Publication](https://img.shields.io/badge/2016-ECCV-f3722c) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46487-9_31.pdf) ![Publication](https://img.shields.io/badge/2016-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-ZIP-b5e48c)](https://openaccess.thecvf.com/content_cvpr_2016/supplemental/Schonberger_Structure-From-Motion_Revisited_2016_CVPR_supplemental.zip)
-- ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/colmap/colmap?logo=github&label=Stars)](https://github.com/colmap/colmap)
-
-#### Massively Parallel Multiview Stereopsis by Surface Normal Diffusion - [Gipuma]
-
-- ![Publication](https://img.shields.io/badge/2015-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-iccv15.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](http://www.prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-supplementary-iccv15.pdf)
-- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/kysucix/gipuma?logo=github&label=Stars)](https://github.com/kysucix/gipuma) ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/kysucix/fusibile?logo=github&label=Stars)](https://github.com/kysucix/fusibile)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/gipuma.png)
-
-#### A TV prior for high-quality scalable multi-view stereo reconstruction
-
-- ![Publication](https://img.shields.io/badge/2016-IJCV-b1b2ff) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.cs.middlebury.edu/~schar/papers/Kuhn-3DV-2014.pdf)
+- ![Publication](https://img.shields.io/badge/2007-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/5226635)
+- [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://www.di.ens.fr/pmvs/)
 
 ---
 
