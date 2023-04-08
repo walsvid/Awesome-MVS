@@ -12,6 +12,11 @@
 
 ### 2023
 
+#### RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.14320-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.14320)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202304090206212.png)
+
 #### Iterative Geometry Encoding Volume for Stereo Matching - [IGEV-MVS]
 
 - ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2303.06615-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2303.06615)
@@ -236,11 +241,6 @@
 
 - ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.15848-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.15848)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/geo-neus.png)
-
-#### RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo
-
-- ![Publication](https://img.shields.io/badge/2022-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.14320-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.14320)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/riav-mvs.png)
 
 #### Bidirectional Hybrid LSTM Based Recurrent Neural Network for Multi-view Stereo - [BH-MVSNet]
 
