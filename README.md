@@ -23,6 +23,11 @@
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/gangweiX/IGEV?logo=github&label=Stars)](https://github.com/gangweiX/IGEV)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202303141842368.png)
 
+#### Context-Guided Multi-view Stereo with Depth Back-Projection - [ContextMVS]
+
+- ![Publication](https://img.shields.io/badge/2023-MMM-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_8)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202304161314334.png)
+
 #### Unsupervised OmniMVS: Efficient Omnidirectional Depth Inference via Establishing Pseudo-Stereo Supervision - [Un-OmniMVS]
 
 - ![Publication](https://img.shields.io/badge/2023-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2302.09922-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2302.09922)
