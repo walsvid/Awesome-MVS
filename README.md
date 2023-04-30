@@ -12,6 +12,10 @@
 
 ### 2023
 
+#### Multi-View Stereo Representation Revisit: Region-Aware MVSNet - [RA-MVSNet]
+- ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2304.13614-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2304.13614)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202304301543824.png)
+
 #### RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2205.14320-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2205.14320)
