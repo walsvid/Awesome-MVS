@@ -13,6 +13,7 @@
 ### 2023
 
 #### Multi-View Stereo Representation Revisit: Region-Aware MVSNet - [RA-MVSNet]
+
 - ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2304.13614-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2304.13614)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202304301543824.png)
 
@@ -26,6 +27,11 @@
 - ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2303.06615-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2303.06615)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/gangweiX/IGEV?logo=github&label=Stars)](https://github.com/gangweiX/IGEV)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202303141842368.png)
+
+#### N2MVSNet: Non-Local Neighbors Aware Multi-View Stereo Network
+
+- ![Publication](https://img.shields.io/badge/2023-ICASSP-0962ea) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/10095299)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202305150008177.png)
 
 #### Context-Guided Multi-view Stereo with Depth Back-Projection - [ContextMVS]
 
@@ -692,6 +698,11 @@
 ## PatchMatch-based MVS Methods
 
 ### 2023
+
+#### HQP-MVS:High-Quality Plane Priors Assisted Multi-View Stereo for Low-Textured Areas
+
+- ![Publication](https://img.shields.io/badge/2023-ICASSP-0962ea) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/10121017)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202305150002282.png)
 
 #### Hierarchical Prior Mining for Non-local Multi-View Stereo - [HPM-MVS]
 
