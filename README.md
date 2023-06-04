@@ -12,6 +12,14 @@
 
 ### 2023
 
+#### GeoMVSNet: Learning Multi-View Stereo with Geometry Perception
+
+- ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_GeoMVSNet_Learning_Multi-View_Stereo_With_Geometry_Perception_CVPR_2023_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Zhang_GeoMVSNet_Learning_Multi-View_CVPR_2023_supplemental.pdf)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/doubleZ0108/GeoMVSNet?logo=github&label=Stars)](https://github.com/doubleZ0108/GeoMVSNet)
+- [![Video](https://img.shields.io/badge/Youtube-Video-cc0000?style=flat&logo=youtube&logoColor=cc0000)](https://www.youtube.com/watch?v=XqLDgJAZAKc)
+- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/geomvsnet-learning-multi-view-stereo-with/point-clouds-on-tanks-and-temples)](https://paperswithcode.com/sota/point-clouds-on-tanks-and-temples?p=geomvsnet-learning-multi-view-stereo-with) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/geomvsnet-learning-multi-view-stereo-with/3d-reconstruction-on-dtu)](https://paperswithcode.com/sota/3d-reconstruction-on-dtu?p=geomvsnet-learning-multi-view-stereo-with)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202306042251232.png)
+
 #### Multi-View Stereo Representation Revisit: Region-Aware MVSNet - [RA-MVSNet]
 
 - ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2304.13614-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2304.13614)
