@@ -707,6 +707,12 @@
 
 ### 2023
 
+#### Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo - [APD-MVS]
+
+- ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Adaptive_Patch_Deformation_for_Textureless-Resilient_Multi-View_Stereo_CVPR_2023_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Wang_Adaptive_Patch_Deformation_CVPR_2023_supplemental.pdf)
+- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/whoiszzj/APD-MVS?logo=github&label=Stars)](https://github.com/whoiszzj/APD-MVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307022244802.png)
+
 #### HQP-MVS:High-Quality Plane Priors Assisted Multi-View Stereo for Low-Textured Areas
 
 - ![Publication](https://img.shields.io/badge/2023-ICASSP-0962ea) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/10121017)
