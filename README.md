@@ -275,7 +275,7 @@
 
 - ![Publication](https://img.shields.io/badge/2022-IS-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4176484)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/zhz120/Miper-MVS?logo=github&label=Stars)](https://github.com/zhz120/Miper-MVS)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20220908013624.png)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307270047517.png)
 
 #### RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering
 
