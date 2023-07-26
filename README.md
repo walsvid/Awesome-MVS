@@ -171,7 +171,7 @@
 
 #### Uncertainty-guided Multi-View Stereo Network for Depth Estimation - [UGNet]
 
-- ![Publication](https://img.shields.io/badge/2022-TCSVT-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9797764/)
+- ![Publication](https://img.shields.io/badge/2022-TCSVT-cd6688) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/9797764/)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202212191516376.png)
 
 #### Adaptive Range guided Multi-View Depth Estimation with Normal Ranking Loss - [BDE-MVSNet]
@@ -740,6 +740,11 @@
 ## PatchMatch-based MVS Methods
 
 ### 2023
+
+#### Hybrid-MVS: Robust Multi-View Reconstruction with Hybrid Optimization of Visual and Depth Cues
+
+- ![Publication](https://img.shields.io/badge/2023-TCSVT-cd6688) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/10126077)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307270053937.png)
 
 #### Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo - [APD-MVS]
 
