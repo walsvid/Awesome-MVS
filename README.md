@@ -12,6 +12,18 @@
 
 ### 2023
 
+#### Constraining Depth Map Geometry for Multi-View Stereo: A Dual-Depth Approach with Saddle-shaped Depth Cells - [DMVSNet]
+
+- ![Publication](https://img.shields.io/badge/2023-ICCV-f9c74f)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2307.09160-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2307.09160)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/DIVE128/DMVSNet?logo=github&label=Stars)](https://github.com/DIVE128/DMVSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307270001021.png)
+
+#### Costformer: Cost Transformer for Cost Aggregation in Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2023-IJCAI-9cff2e)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2305.10320-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2305.10320)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/xmjtt/costformer?logo=github&label=Stars)](https://github.com/xmjtt/costformer)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307262359892.png)
+
 #### GeoMVSNet: Learning Multi-View Stereo with Geometry Perception
 
 - ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_GeoMVSNet_Learning_Multi-View_Stereo_With_Geometry_Perception_CVPR_2023_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Zhang_GeoMVSNet_Learning_Multi-View_CVPR_2023_supplemental.pdf)
