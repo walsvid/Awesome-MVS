@@ -24,6 +24,28 @@
 - ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/xmjtt/costformer?logo=github&label=Stars)](https://github.com/xmjtt/costformer)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307262359892.png)
 
+#### DSC-MVSNet: Attention Aware Cost Volume Regularization Based on Depthwise Separable Convolution for Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2023-Complex_Intelligent_Systems-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s40747-023-01106-3)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/zs670980918/DSC-MVSNet?logo=github&label=Stars)](https://github.com/zs670980918/DSC-MVSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307270022879.png)
+
+#### NR-MVSNet: Learning Multi-View Stereo Based on Normal Consistency and Depth Refinement
+
+- ![Publication](https://img.shields.io/badge/2023-TIP-9a8c98) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/10120723)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/wdkyh/NR-MVSNet?logo=github&label=Stars)](https://github.com/wdkyh/NR-MVSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307270037280.png)
+
+#### PT-MVSNet: Overlapping Attention Multi-view Stereo Network with Transformers
+
+- ![Publication](https://img.shields.io/badge/2023-CVIDL-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/10167367)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307270030195.png)
+
+#### Multi-View Stereo Network With Gaussian Distribution Iteration - [GDINet]
+
+- ![Publication](https://img.shields.io/badge/2023-IEEE--Access-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/10138389)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307270026003.png)
+
 #### GeoMVSNet: Learning Multi-View Stereo with Geometry Perception
 
 - ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_GeoMVSNet_Learning_Multi-View_Stereo_With_Geometry_Perception_CVPR_2023_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Zhang_GeoMVSNet_Learning_Multi-View_CVPR_2023_supplemental.pdf)
