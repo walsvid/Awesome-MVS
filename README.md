@@ -46,6 +46,11 @@
 - ![Publication](https://img.shields.io/badge/2023-IEEE--Access-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/10138389)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307270026003.png)
 
+#### A-SATMVSNet: An Attention-Aware Multi-View Stereo Matching Network Based on Satellite Imagery
+
+- ![Publication](https://img.shields.io/badge/2023-FES-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.frontiersin.org/articles/10.3389/feart.2023.1108403/full)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307270059596.png)
+
 #### GeoMVSNet: Learning Multi-View Stereo with Geometry Perception
 
 - ![Publication](https://img.shields.io/badge/2023-CVPR-43aa8b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_GeoMVSNet_Learning_Multi-View_Stereo_With_Geometry_Perception_CVPR_2023_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Zhang_GeoMVSNet_Learning_Multi-View_CVPR_2023_supplemental.pdf)
