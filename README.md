@@ -746,6 +746,11 @@
 
 ### 2023
 
+#### TSAR-MVS: Textureless-aware Segmentation and Correlative Refinement Guided Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2023-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2308.09990-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2308.09990)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202308261433131.png)
+
 #### Hybrid-MVS: Robust Multi-View Reconstruction with Hybrid Optimization of Visual and Depth Cues
 
 - ![Publication](https://img.shields.io/badge/2023-TCSVT-cd6688) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/10126077)
