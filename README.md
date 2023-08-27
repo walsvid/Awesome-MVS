@@ -34,6 +34,11 @@
 - ![Publication](https://img.shields.io/badge/2023-Applied_Intelligence-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s10489-023-04910-z)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202308272332773.png)
 
+#### AdaptMVSNet: Efficient Multi-View Stereo With Adaptive Convolution and Attention Fusion
+
+- ![Publication](https://img.shields.io/badge/2023-CG-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.sciencedirect.com/science/article/abs/pii/S0097849323001838)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202308280036313.png)
+
 #### ES-MVSNet: Efficient Framework for End-to-end Self-supervised Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2023-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2308.02191-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2308.02191)
