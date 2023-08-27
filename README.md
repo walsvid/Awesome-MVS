@@ -44,6 +44,11 @@
 - ![Publication](https://img.shields.io/badge/2023-CG-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.sciencedirect.com/science/article/abs/pii/S0097849323001838)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202308280036313.png)
 
+#### RepC-MVSNet: A Reparameterized Self-Supervised 3D Reconstruction Algorithm for Wheat 3D Reconstruction
+
+- ![Publication](https://img.shields.io/badge/2023-Agronomy-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.mdpi.com/2073-4395/13/8/1975)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202308280126231.png)
+
 #### ES-MVSNet: Efficient Framework for End-to-end Self-supervised Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2023-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2308.02191-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2308.02191)
