@@ -24,6 +24,12 @@
 - ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/xmjtt/costformer?logo=github&label=Stars)](https://github.com/xmjtt/costformer)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307262359892.png)
 
+#### ARAI-MVSNet: A Multi-View Stereo Depth Estimation Network With Adaptive Depth Range and Depth Interval
+
+- ![Publication](https://img.shields.io/badge/2023-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2308.09022-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2308.09022)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/zs670980918/ARAI-MVSNet?logo=github&label=Stars)](https://github.com/zs670980918/ARAI-MVSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202308261447919.png)
+
 #### DSC-MVSNet: Attention Aware Cost Volume Regularization Based on Depthwise Separable Convolution for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2023-Complex_Intelligent_Systems-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s40747-023-01106-3)
