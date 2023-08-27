@@ -29,6 +29,11 @@
 - ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/xmjtt/costformer?logo=github&label=Stars)](https://github.com/xmjtt/costformer)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307262359892.png)
 
+#### Edge-Aware Spatial Propagation Network for Multi-view Depth Estimation
+
+- ![Publication](https://img.shields.io/badge/2023-NPL-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s11063-023-11356-4)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202308280044340.png)
+
 #### Uncertainty Awareness With Adaptive Propagation for Multi-View Stereo - [AP-UCSNet]
 
 - ![Publication](https://img.shields.io/badge/2023-Applied_Intelligence-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s10489-023-04910-z)
