@@ -18,6 +18,11 @@
 - ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/DIVE128/DMVSNet?logo=github&label=Stars)](https://github.com/DIVE128/DMVSNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307270001021.png)
 
+#### Bi-ClueMVSNet: Learning Bidirectional Occlusion Clues for Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2023-IJCNN-191d88) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/10191325)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202308272343226.png)
+
 #### Costformer: Cost Transformer for Cost Aggregation in Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2023-IJCAI-9cff2e)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2305.10320-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2305.10320)
