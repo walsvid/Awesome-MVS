@@ -787,6 +787,12 @@
 
 ### 2023
 
+#### Hierarchical Prior Mining for Non-local Multi-View Stereo - [HPM-MVS]
+
+- ![Publication](https://img.shields.io/badge/2023-ICCV-f9c74f)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2303.09758-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2303.09758)
+- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/CLinvx/HPM-MVS?logo=github&label=Stars)](https://github.com/CLinvx/HPM-MVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202303211853339.png)
+
 #### TSAR-MVS: Textureless-aware Segmentation and Correlative Refinement Guided Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2023-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2308.09990-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2308.09990)
@@ -808,10 +814,7 @@
 - ![Publication](https://img.shields.io/badge/2023-ICASSP-0962ea) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/10121017)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202305150002282.png)
 
-#### Hierarchical Prior Mining for Non-local Multi-View Stereo - [HPM-MVS]
 
-- ![Publication](https://img.shields.io/badge/2023-CoRR-b31b1b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2303.09758-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2303.09758)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202303211853339.png)
 
 #### Visibility-Aware Pixelwise View Selection for Multi-View Stereo Matching - [AMBC]
 
