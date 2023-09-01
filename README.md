@@ -29,6 +29,11 @@
 - ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/xmjtt/costformer?logo=github&label=Stars)](https://github.com/xmjtt/costformer)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202307262359892.png)
 
+#### Multi‑View Stereo Network With Point Attention - [PA-PointMVSNet]
+
+- ![Publication](https://img.shields.io/badge/2023-Applied_Intelligence-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s10489-023-04806-y)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202309012157495.png)
+
 #### Edge-Aware Spatial Propagation Network for Multi-view Depth Estimation
 
 - ![Publication](https://img.shields.io/badge/2023-NPL-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s11063-023-11356-4)
@@ -813,8 +818,6 @@
 
 - ![Publication](https://img.shields.io/badge/2023-ICASSP-0962ea) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/document/10121017)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202305150002282.png)
-
-
 
 #### Visibility-Aware Pixelwise View Selection for Multi-View Stereo Matching - [AMBC]
 
