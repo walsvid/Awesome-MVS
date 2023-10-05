@@ -12,6 +12,12 @@
 
 ### 2023
 
+#### When Epipolar Constraint Meets Non-Local Operators in Multi-View Stereo - [ET-MVSNet]
+
+- ![Publication](https://img.shields.io/badge/2023-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_When_Epipolar_Constraint_Meets_Non-Local_Operators_in_Multi-View_Stereo_ICCV_2023_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Liu_When_Epipolar_Constraint_ICCV_2023_supplemental.pdf)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/TQTQliu/ET-MVSNet?logo=github&label=Stars)](https://github.com/TQTQliu/ET-MVSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202310052033023.png)
+
 #### CL-MVSNet: Unsupervised Multi-View Stereo with Dual-Level Contrastive Learning
 
 - ![Publication](https://img.shields.io/badge/2023-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiong_CL-MVSNet_Unsupervised_Multi-View_Stereo_with_Dual-Level_Contrastive_Learning_ICCV_2023_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xiong_CL-MVSNet_Unsupervised_Multi-View_Stereo_with_Dual-Level_Contrastive_Learning_ICCV_2023_supplemental.pdf)
