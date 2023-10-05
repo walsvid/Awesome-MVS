@@ -800,7 +800,7 @@
 
 #### Hierarchical Prior Mining for Non-local Multi-View Stereo - [HPM-MVS]
 
-- ![Publication](https://img.shields.io/badge/2023-ICCV-f9c74f)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2303.09758-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2303.09758)
+- ![Publication](https://img.shields.io/badge/2023-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ren_Hierarchical_Prior_Mining_for_Non-local_Multi-View_Stereo_ICCV_2023_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Ren_Hierarchical_Prior_Mining_ICCV_2023_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2303.09758-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2303.09758)
 - ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/CLinvx/HPM-MVS?logo=github&label=Stars)](https://github.com/CLinvx/HPM-MVS)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202303211853339.png)
 
