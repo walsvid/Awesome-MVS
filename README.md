@@ -12,6 +12,16 @@
 
 ### 2023
 
+#### Semi-supervised Deep Multi-view Stereo - [SDA-MVS]
+
+- ![Publication](https://img.shields.io/badge/2023-ACMMM-5bb318) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://dl.acm.org/doi/10.1145/3581783.3611931)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202311130002999.png)
+
+#### S-OmniMVS: Incorporating Sphere Geometry into Omnidirectional Stereo Matching
+
+- ![Publication](https://img.shields.io/badge/2023-ACMMM-5bb318) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://dl.acm.org/doi/10.1145/3581783.3612381)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202311122358397.png)
+
 #### When Epipolar Constraint Meets Non-Local Operators in Multi-View Stereo - [ET-MVSNet]
 
 - ![Publication](https://img.shields.io/badge/2023-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_When_Epipolar_Constraint_Meets_Non-Local_Operators_in_Multi-View_Stereo_ICCV_2023_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Liu_When_Epipolar_Constraint_ICCV_2023_supplemental.pdf)
