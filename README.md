@@ -18,6 +18,11 @@
 - ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/maybeLx/MVSFormerPlusPlus?logo=github&label=Stars)](https://github.com/maybeLx/MVSFormerPlusPlus)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202401242308703.png)
 
+#### HAMMER: Learning Entropy Maps to Create Accurate 3D Models in Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2024-WACV-9d4edd) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2024/papers/Weilharter_HAMMER_Learning_Entropy_Maps_To_Create_Accurate_3D_Models_in_WACV_2024_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2024/supplemental/Weilharter_HAMMER_Learning_Entropy_WACV_2024_supplemental.pdf)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202401250131827.png)
+
 #### GC-MVSNet: Multi-View, Multi-Scale, Geometrically-Consistent Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2024-WACV-9d4edd) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2024/papers/Vats_GC-MVSNet_Multi-View_Multi-Scale_Geometrically-Consistent_Multi-View_Stereo_WACV_2024_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2024/supplemental/Vats_GC-MVSNet_Multi-View_Multi-Scale_WACV_2024_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2310.19583-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2310.19583)
@@ -833,8 +838,6 @@
 - ![Publication](https://img.shields.io/badge/2024-WACV-9d4edd) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2024/papers/Zhao_Polarimetric_PatchMatch_Multi-View_Stereo_WACV_2024_paper.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2311.07600-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2311.07600)
 - [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](http://www.ok.sc.e.titech.ac.jp/res/PolarPMS/)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202401250118071.png)
-
-
 
 ### 2023
 
