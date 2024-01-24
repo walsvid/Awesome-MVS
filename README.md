@@ -51,6 +51,7 @@
 
 - ![Publication](https://img.shields.io/badge/2023-ICCV-f9c74f) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiong_CL-MVSNet_Unsupervised_Multi-View_Stereo_with_Dual-Level_Contrastive_Learning_ICCV_2023_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xiong_CL-MVSNet_Unsupervised_Multi-View_Stereo_with_Dual-Level_Contrastive_Learning_ICCV_2023_supplemental.pdf)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/KaiqiangXiong/CL-MVSNet?logo=github&label=Stars)](https://github.com/KaiqiangXiong/CL-MVSNet)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202310052016057.png)
 
 #### Constraining Depth Map Geometry for Multi-View Stereo: A Dual-Depth Approach with Saddle-shaped Depth Cells - [DMVSNet]
