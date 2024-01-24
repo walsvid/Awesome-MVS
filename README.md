@@ -4,11 +4,19 @@
 
 > Contributions welcomed!
 >
-> Learning-based [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)
+> Learning-based [2024](#2024) [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)
 >
 > Traditional [2023](#2023-1) | [2022](#2022-1) | [2021](#2021-1) | [2020](#2020-1) | [2019](#2019-1) | [2018](#2018-1) | [Early](#early)
 
 ## Learning-based MVS Methods
+
+### 2024
+
+#### MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2024-ICLR-a8dadc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/forum?id=wXWfvSpYHh) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2401.11673-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2401.11673)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/maybeLx/MVSFormerPlusPlus?logo=github&label=Stars)](https://github.com/maybeLx/MVSFormerPlusPlus)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202401242308703.png)
 
 ### 2023
 
