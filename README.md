@@ -18,6 +18,12 @@
 - ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/maybeLx/MVSFormerPlusPlus?logo=github&label=Stars)](https://github.com/maybeLx/MVSFormerPlusPlus)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202401242308703.png)
 
+#### Learning Deformable Hypothesis Sampling for Accurate PatchMatch - [DS-PMNet]
+
+- ![Publication](https://img.shields.io/badge/2024-AAAI-ffafcc)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2312.15970-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2312.15970)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/Geo-Tell/DS-PMNet?logo=github&label=Stars)](https://github.com/Geo-Tell/DS-PMNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202401250205076.png)
+
 #### HAMMER: Learning Entropy Maps to Create Accurate 3D Models in Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2024-WACV-9d4edd) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2024/papers/Weilharter_HAMMER_Learning_Entropy_Maps_To_Create_Accurate_3D_Models_in_WACV_2024_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2024/supplemental/Weilharter_HAMMER_Learning_Entropy_WACV_2024_supplemental.pdf)
