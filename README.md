@@ -4,9 +4,9 @@
 
 > Contributions welcomed!
 >
-> Learning-based [2024](#2024) [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)
+> Learning-based [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)
 >
-> Traditional [2023](#2023-1) | [2022](#2022-1) | [2021](#2021-1) | [2020](#2020-1) | [2019](#2019-1) | [2018](#2018-1) | [Early](#early)
+> Traditional [2024](#2024-1) | [2023](#2023-1) | [2022](#2022-1) | [2021](#2021-1) | [2020](#2020-1) | [2019](#2019-1) | [2018](#2018-1) | [Early](#early)
 
 ## Learning-based MVS Methods
 
@@ -825,6 +825,16 @@
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/surfacenet.png)
 
 ## PatchMatch-based MVS Methods
+
+### 2024
+
+#### Polarimetric PatchMatch Multi-View Stereo - [PolarPMS]
+
+- ![Publication](https://img.shields.io/badge/2024-WACV-9d4edd) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2024/papers/Zhao_Polarimetric_PatchMatch_Multi-View_Stereo_WACV_2024_paper.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2311.07600-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2311.07600)
+- [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](http://www.ok.sc.e.titech.ac.jp/res/PolarPMS/)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202401250118071.png)
+
+
 
 ### 2023
 
