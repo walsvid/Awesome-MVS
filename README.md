@@ -18,6 +18,12 @@
 - ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/maybeLx/MVSFormerPlusPlus?logo=github&label=Stars)](https://github.com/maybeLx/MVSFormerPlusPlus)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202401242308703.png)
 
+#### GC-MVSNet: Multi-View, Multi-Scale, Geometrically-Consistent Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2024-WACV-9d4edd) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2024/papers/Vats_GC-MVSNet_Multi-View_Multi-Scale_Geometrically-Consistent_Multi-View_Stereo_WACV_2024_paper.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2024/supplemental/Vats_GC-MVSNet_Multi-View_Multi-Scale_WACV_2024_supplemental.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2310.19583-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2310.19583)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/vkvats/GC-MVSNet?logo=github&label=Stars)](https://github.com/vkvats/GC-MVSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202401242326111.png)
+
 ### 2023
 
 #### Semi-supervised Deep Multi-view Stereo - [SDA-MVS]
