@@ -12,10 +12,17 @@
 
 ### 2024
 
+#### GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo
+
+- ![Publication](https://img.shields.io/badge/2024-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2404.07992-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2404.07992)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/Wuuu3511/GoMVS?logo=github&label=Stars)](https://github.com/Wuuu3511/GoMVS)
+- [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://wuuu3511.github.io/gomvs/)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202404132156724.png)
+
 #### MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2024-ICLR-a8dadc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/forum?id=wXWfvSpYHh) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2401.11673-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2401.11673)
-- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/maybeLx/MVSFormerPlusPlus?logo=github&label=Stars)](https://github.com/maybeLx/MVSFormerPlusPlus)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/maybeLx/MVSFormerPlusPlus?logo=github&label=Stars)](https://github.com/maybeLx/MVSFormerPlusPlus)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202401242308703.png)
 
 #### Learning Deformable Hypothesis Sampling for Accurate PatchMatch - [DS-PMNet]
