@@ -12,12 +12,6 @@
 
 ### 2024
 
-#### RobustMVS: Single Domain Generalized Deep Multi-view Stereo
-
-- ![Publication](https://img.shields.io/badge/2024-TCSVT-cd6688) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/10528330)
-- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/ToughStoneX/Robust-MVS?logo=github&label=Stars)](https://github.com/ToughStoneX/Robust-MVS)
-- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202405240006332.png)
-
 #### GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2024-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2404.07992-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2404.07992)
@@ -30,6 +24,18 @@
 - ![Publication](https://img.shields.io/badge/2024-ICLR-a8dadc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/forum?id=wXWfvSpYHh) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2401.11673-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2401.11673)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/maybeLx/MVSFormerPlusPlus?logo=github&label=Stars)](https://github.com/maybeLx/MVSFormerPlusPlus)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202401242308703.png)
+
+#### RobustMVS: Single Domain Generalized Deep Multi-view Stereo
+
+- ![Publication](https://img.shields.io/badge/2024-TCSVT-cd6688) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/10528330)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/ToughStoneX/Robust-MVS?logo=github&label=Stars)](https://github.com/ToughStoneX/Robust-MVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202405240006332.png)
+
+#### CT-MVSNet: Curvature-Guided Multi-View Stereo with Transformers
+
+- ![Publication](https://img.shields.io/badge/2024-MTA-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s11042-024-19227-3)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/Sun-Licheng/CT-MVSNet?logo=github&label=Stars)](https://github.com/Sun-Licheng/CT-MVSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202405240056854.png)
 
 #### Learning Deformable Hypothesis Sampling for Accurate PatchMatch - [DS-PMNet]
 
