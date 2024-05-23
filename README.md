@@ -25,6 +25,14 @@
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/wscstrive/CT-MVSNet?logo=github&label=Stars)](https://github.com/wscstrive/CT-MVSNet)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202405240123029.png)
 
+#### Feature Distribution Normalization Network for Multi-View Stereo - [FDN-MVS]
+
+- ![Publication](<https://img.shields.io/badge/2024-The> Visual Computer-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s00371-024-03334-1)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ZYangChen/FDN-MVS?logo=github&label=Stars)](https://github.com/ZYangChen/FDN-MVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202405240147119.png)
+
+
+
 #### MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2024-ICLR-a8dadc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/forum?id=wXWfvSpYHh) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2401.11673-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2401.11673)
