@@ -27,11 +27,9 @@
 
 #### Feature Distribution Normalization Network for Multi-View Stereo - [FDN-MVS]
 
-- ![Publication](<https://img.shields.io/badge/2024-The> Visual Computer-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s00371-024-03334-1)
+- ![Publication](https://img.shields.io/badge/2024-The_Visual_Computer-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/article/10.1007/s00371-024-03334-1)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ZYangChen/FDN-MVS?logo=github&label=Stars)](https://github.com/ZYangChen/FDN-MVS)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202405240147119.png)
-
-
 
 #### MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo
 
