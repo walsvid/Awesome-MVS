@@ -19,6 +19,12 @@
 - [![Webpage](https://img.shields.io/badge/Project-Page-3cba54?style=flat&logo=Google%20chrome&logoColor=white)](https://wuuu3511.github.io/gomvs/)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202404132156724.png)
 
+#### CT-MVSNet: Efficient Multi-View Stereo with Cross-scale Transformer
+
+- ![Publication](https://img.shields.io/badge/2024-MMM-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://link.springer.com/chapter/10.1007/978-3-031-53308-2_29) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2312.08594-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2312.08594)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/wscstrive/CT-MVSNet?logo=github&label=Stars)](https://github.com/wscstrive/CT-MVSNet)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202405240123029.png)
+
 #### MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2024-ICLR-a8dadc) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/forum?id=wXWfvSpYHh) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2401.11673-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2401.11673)
