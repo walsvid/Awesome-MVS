@@ -12,6 +12,12 @@
 
 ### 2024
 
+#### RobustMVS: Single Domain Generalized Deep Multi-view Stereo
+
+- ![Publication](https://img.shields.io/badge/2024-TCSVT-cd6688) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/10528330)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/ToughStoneX/Robust-MVS?logo=github&label=Stars)](https://github.com/ToughStoneX/Robust-MVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202405240006332.png)
+
 #### GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2024-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2404.07992-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2404.07992)
