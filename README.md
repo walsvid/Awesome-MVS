@@ -871,6 +871,11 @@
 
 ### 2024
 
+#### Multiview Stereo via Noise Suppression PatchMatch
+
+- ![Publication](https://img.shields.io/badge/2024-TIM-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/10443640)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/202405252338188.png)
+
 #### Polarimetric PatchMatch Multi-View Stereo - [PolarPMS]
 
 - ![Publication](https://img.shields.io/badge/2024-WACV-9d4edd) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openaccess.thecvf.com/content/WACV2024/papers/Zhao_Polarimetric_PatchMatch_Multi-View_Stereo_WACV_2024_paper.pdf) [![Paper](http://img.shields.io/badge/arxiv-arxiv.2311.07600-B31B1B?logo=arXiv&logoColor=green)](http://arxiv.org/abs/2311.07600)
