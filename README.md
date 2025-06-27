@@ -12,6 +12,12 @@
 
 ### 2024
 
+#### Adaptive Feature Enhanced Multi-View Stereo With Epipolar Line Information Aggregation - [EIA-MVS]
+- ![Publication](https://img.shields.io/badge/2024-R--AL-d10465) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://ieeexplore.ieee.org/abstract/document/10700633)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/bdwsq1996/EIA-MVS?logo=github&label=Stars)](https://github.com/bdwsq1996/EIA-MVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202506280014427.png)
+
+
 #### Smoothness, Synthesis, and Sampling: Re-thinking Unsupervised Multi-View Stereo with DIV Loss
 - ![Publication](https://img.shields.io/badge/2024-ECCV-f3722c) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08045.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://alexrich021.github.io/div-loss/static/div-loss-supp-eccv-2024.pdf)
 - ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/alexrich021/div-loss?logo=github&label=Stars)](https://github.com/alexrich021/div-loss)
