@@ -18,6 +18,12 @@
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202506280031370.png)
 
 
+#### ETV-MVS: Robust Visibility-Aware Multi-View Stereo with Epipolar
+- ![Publication](https://img.shields.io/badge/2025-BDMA-3a506b) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.sciopen.com/article/10.26599/BDMA.2024.9020075)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/npucvr/ETV-MVS?logo=github&label=Stars)](https://github.com/npucvr/ETV-MVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202506280036654.png)
+
+
 ### 2024
 
 #### Adaptive Feature Enhanced Multi-View Stereo With Epipolar Line Information Aggregation - [EIA-MVS]
