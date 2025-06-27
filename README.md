@@ -12,6 +12,13 @@
 
 ### 2024
 
+#### Smoothness, Synthesis, and Sampling: Re-thinking Unsupervised Multi-View Stereo with DIV Loss
+- ![Publication](https://img.shields.io/badge/2024-ECCV-f3722c) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08045.pdf) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://alexrich021.github.io/div-loss/static/div-loss-supp-eccv-2024.pdf)
+- ![Pytorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/alexrich021/div-loss?logo=github&label=Stars)](https://github.com/alexrich021/div-loss)
+- ![SelfSup](https://img.shields.io/badge/Self--Surpervised-ffe169.svg?logo=fing&logoColor=black)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/20250628000037.png)
+
+
 #### GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo
 
 - ![Publication](https://img.shields.io/badge/2024-CVPR-43aa8b)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2404.07992-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2404.07992)
