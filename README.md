@@ -908,10 +908,14 @@
 
 ### 2025
 
+#### Dual-Level Precision Edges Guided Multi-View Stereo with Accurate Planarization - [DPE-MVS]
+- ![Publication](https://img.shields.io/badge/2025-AAAI-ffafcc)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2412.20328-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2412.20328)
+- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/ckh0715/DPE-MVS?logo=github&label=Stars)](https://github.com/ckh0715/DPE-MVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202508242255240.png)
+
 #### MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo
 - ![Publication](https://img.shields.io/badge/2025-AAAI-ffafcc)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2407.19323-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2407.19323)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202508241256793.png)
-
 
 #### DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo
 - ![Publication](https://img.shields.io/badge/2025-AAAI-ffafcc)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2412.11578-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2412.11578)
