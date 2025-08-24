@@ -6,7 +6,7 @@
 >
 > Learning-based [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)
 >
-> Traditional [2024](#2024-1) | [2023](#2023-1) | [2022](#2022-1) | [2021](#2021-1) | [2020](#2020-1) | [2019](#2019-1) | [2018](#2018-1) | [Early](#early)
+> Traditional [2025](#2025-1) | [2024](#2024-1) | [2023](#2023-1) | [2022](#2022-1) | [2021](#2021-1) | [2020](#2020-1) | [2019](#2019-1) | [2018](#2018-1) | [Early](#early)
 
 ## Learning-based MVS Methods
 
@@ -905,6 +905,13 @@
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/surfacenet.png)
 
 ## PatchMatch-based MVS Methods
+
+### 2025
+
+#### DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo
+- ![Publication](https://img.shields.io/badge/2025-AAAI-ffafcc)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2412.11578-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2412.11578)
+- ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/ZhenlongYuan/DVP-MVS?logo=github&label=Stars)](https://github.com/ZhenlongYuan/DVP-MVS)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202508241233571.png)
 
 ### 2024
 
