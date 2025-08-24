@@ -908,6 +908,11 @@
 
 ### 2025
 
+#### MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo
+- ![Publication](https://img.shields.io/badge/2025-AAAI-ffafcc)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2407.19323-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2407.19323)
+- ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/202508241256793.png)
+
+
 #### DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo
 - ![Publication](https://img.shields.io/badge/2025-AAAI-ffafcc)  [![Paper](http://img.shields.io/badge/arxiv-arxiv.2412.11578-B31B1B?logo=arXiv&logoColor=green)](https://arxiv.org/abs/2412.11578)
 - ![Other](https://img.shields.io/badge/Other-white.svg?logoColor=black&logo=ghostery) [![GitHub stars](https://img.shields.io/github/stars/ZhenlongYuan/DVP-MVS?logo=github&label=Stars)](https://github.com/ZhenlongYuan/DVP-MVS)
